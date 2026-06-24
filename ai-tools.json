@@ -1,0 +1,3260 @@
+{
+  "name": "AutoVenture Free AI Tools Dataset",
+  "description": "A curated dataset of free and free-trial AI tools across 25 categories, with descriptions, pricing tier, website and review links.",
+  "source": "https://autoventure.live",
+  "license": "Free to use with attribution — link back to https://autoventure.live",
+  "updated": "2026-06-24",
+  "count": 325,
+  "tools": [
+    {
+      "name": "Audacity",
+      "slug": "audacity",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free open-source audio editor with AI-powered noise reduction and effects. Works on all platforms.",
+      "website": "https://www.audacityteam.org/",
+      "review_url": "https://autoventure.live/reviews/audacity.html"
+    },
+    {
+      "name": "Audo Studio",
+      "slug": "audo-studio",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free AI audio editor for podcasters. Auto-remove noise, filler words, and silence.",
+      "website": "https://audo.ai/",
+      "review_url": "https://autoventure.live/reviews/audo-studio.html"
+    },
+    {
+      "name": "Descript",
+      "slug": "descript",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free AI transcription and editing. Edit audio by editing text, with filler word removal.",
+      "website": "https://www.descript.com/",
+      "review_url": "https://autoventure.live/reviews/descript.html"
+    },
+    {
+      "name": "ElevenLabs",
+      "slug": "elevenlabs",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free AI voice generator with ultra-realistic voices. Create voiceovers for videos and podcasts.",
+      "website": "https://elevenlabs.io/",
+      "review_url": "https://autoventure.live/reviews/elevenlabs.html"
+    },
+    {
+      "name": "Fish Audio",
+      "slug": "fish-audio",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Expressive AI voice platform providing text-to-speech, voice cloning, and speech-to-text with emotion control, offering a free tier for creators and developers.",
+      "website": "https://fish.audio/",
+      "review_url": "https://autoventure.live/reviews/fish-audio.html"
+    },
+    {
+      "name": "Freesong",
+      "slug": "freesong",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "A browser-based AI song generator that converts text prompts, humming, or uploaded audio into full songs with vocals and arrangement; the first six songs are free with no credit card or countdown time",
+      "website": "https://freesong.ai",
+      "review_url": "https://autoventure.live/reviews/freesong.html"
+    },
+    {
+      "name": "KikiVoice",
+      "slug": "kikivoice",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free browser-based AI voice cloning tool supporting 75+ languages with no sign-up required, offering weekly character resets for multilingual voice generation.",
+      "website": "https://kikivoice.com/",
+      "review_url": "https://autoventure.live/reviews/kikivoice.html"
+    },
+    {
+      "name": "Krisp",
+      "slug": "krisp",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free AI noise canceller for calls and recordings. Remove background noise in real time.",
+      "website": "https://krisp.ai/",
+      "review_url": "https://autoventure.live/reviews/krisp.html"
+    },
+    {
+      "name": "Lalal.ai",
+      "slug": "lalal-ai",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free AI audio splitter and stem extractor. Isolate vocals, drums, and instruments from songs.",
+      "website": "https://www.lalal.ai/",
+      "review_url": "https://autoventure.live/reviews/lalal-ai.html"
+    },
+    {
+      "name": "Mubert",
+      "slug": "mubert",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "An AI music generation platform that creates royalty-free, mood- and duration-matched soundtracks for videos, podcasts, and apps; Mubert Render is free to try, with an API for developers and a Studio",
+      "website": "https://mubert.com",
+      "review_url": "https://autoventure.live/reviews/mubert.html"
+    },
+    {
+      "name": "Murf AI",
+      "slug": "murf-ai",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free AI voiceover tool with 120+ studio-quality voices. Sync voice to video automatically.",
+      "website": "https://murf.ai/",
+      "review_url": "https://autoventure.live/reviews/murf-ai.html"
+    },
+    {
+      "name": "Musicfy",
+      "slug": "musicfy",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "A free AI voice song generator that lets users create original songs by typing prompts or uploading their own vocals to train a custom AI voice model; the free tier requires no credit card and support",
+      "website": "https://www.musicfy.lol",
+      "review_url": "https://autoventure.live/reviews/musicfy.html"
+    },
+    {
+      "name": "Otter.ai",
+      "slug": "otter-ai",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free AI transcription for meetings and interviews. Real-time captions and collaborative notes.",
+      "website": "https://otter.ai/",
+      "review_url": "https://autoventure.live/reviews/otter-ai.html"
+    },
+    {
+      "name": "Play.ht",
+      "slug": "play-ht",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free AI voice generator with ultra-realistic voices. Create voiceovers for videos and podcasts.",
+      "website": "https://play.ht/",
+      "review_url": "https://autoventure.live/reviews/play-ht.html"
+    },
+    {
+      "name": "Resemble AI",
+      "slug": "resemble-ai",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "A voice AI platform offering text-to-speech, voice cloning, speech-to-speech, and deepfake detection/watermarking; the free tier lets developers start building with voice AI, and the platform also pro",
+      "website": "https://resemble.ai",
+      "review_url": "https://autoventure.live/reviews/resemble-ai.html"
+    },
+    {
+      "name": "SoundTools",
+      "slug": "soundtools",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free browser-based audio toolkit with AI voice cloning, speech-to-song, stem splitting, and vocal effects, requiring no account or uploads for basic use.",
+      "website": "https://soundtools.io/",
+      "review_url": "https://autoventure.live/reviews/soundtools.html"
+    },
+    {
+      "name": "Suno AI",
+      "slug": "suno-ai",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "AI music generator that creates full songs with vocals and instrumentation from text prompts; free tier gives 10 songs per day with non-commercial rights.",
+      "website": "https://suno.ai/",
+      "review_url": "https://autoventure.live/reviews/suno-ai.html"
+    },
+    {
+      "name": "TTS.ai",
+      "slug": "tts-ai",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free AI voice platform offering 35+ open-source models, 285+ voices, and 55+ languages for text-to-speech, voice cloning, and speech-to-text, with a free tier including 15K characters per month.",
+      "website": "https://tts.ai/",
+      "review_url": "https://autoventure.live/reviews/tts-ai.html"
+    },
+    {
+      "name": "TTSMaker",
+      "slug": "ttsmaker",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free online text-to-speech with 200+ voices and languages. No signup required for basic use.",
+      "website": "https://ttsmaker.com/",
+      "review_url": "https://autoventure.live/reviews/ttsmaker.html"
+    },
+    {
+      "name": "Udio",
+      "slug": "udio",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "AI music generator that produces original songs from text prompts; the free tier provides monthly credits for personal, non-commercial use.",
+      "website": "https://www.udio.com/",
+      "review_url": "https://autoventure.live/reviews/udio.html"
+    },
+    {
+      "name": "Veed.io",
+      "slug": "veed-io",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free online auto-subtitler with 98% accuracy. Add captions to videos in one click.",
+      "website": "https://www.veed.io/",
+      "review_url": "https://autoventure.live/reviews/veed-io.html"
+    },
+    {
+      "name": "Vocloner",
+      "slug": "vocloner",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free instant AI voice cloning service with daily character limits, supporting multilingual output and word-level emotion tags for personalized voice generation.",
+      "website": "https://vocloner.com/",
+      "review_url": "https://autoventure.live/reviews/vocloner.html"
+    },
+    {
+      "name": "Voicebox",
+      "slug": "voicebox",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Open-source desktop app for local AI voice cloning and text-to-speech across seven engines, running entirely on your machine with no cloud uploads or subscription costs.",
+      "website": "https://voicebox.sh/",
+      "review_url": "https://autoventure.live/reviews/voicebox.html"
+    },
+    {
+      "name": "Whisper (OpenAI)",
+      "slug": "whisper-openai",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free open-source speech recognition model. Transcribe audio locally with high accuracy.",
+      "website": "https://github.com/openai/whisper",
+      "review_url": "https://autoventure.live/reviews/whisper-openai.html"
+    },
+    {
+      "name": "WhisperAI",
+      "slug": "whisperai",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free Trial",
+      "description": "Transcribes audio and video files up to 1GB into editable, timestamped transcripts with speaker identification, offered as a free trial.",
+      "website": "https://whisperai.com",
+      "review_url": "https://autoventure.live/reviews/whisperai.html"
+    },
+    {
+      "name": "Activepieces",
+      "slug": "activepieces",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free open-source Zapier alternative. Self-hostable, AI-assisted workflow builder.",
+      "website": "https://www.activepieces.com/",
+      "review_url": "https://autoventure.live/reviews/activepieces.html"
+    },
+    {
+      "name": "Adalo",
+      "slug": "adalo",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free AI no-code platform for mobile apps. Native iOS and Android export.",
+      "website": "https://www.adalo.com/",
+      "review_url": "https://autoventure.live/reviews/adalo.html"
+    },
+    {
+      "name": "ai.com",
+      "slug": "ai-com",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Managed AI agent platform that sets up autonomous agents in about 60 seconds to execute tasks across apps, send messages, organize calendars, and automate workflows via a consumer-friendly web interfa",
+      "website": "https://ai.com/pricing",
+      "review_url": "https://autoventure.live/reviews/ai-com.html"
+    },
+    {
+      "name": "Airtable AI",
+      "slug": "airtable-ai",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free database with AI automation. Build custom apps and workflows.",
+      "website": "https://www.airtable.com/",
+      "review_url": "https://autoventure.live/reviews/airtable-ai.html"
+    },
+    {
+      "name": "Allyhub",
+      "slug": "allyhub",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free Trial",
+      "description": "AI agent platform that executes browsing, research, and reporting tasks from plain-language commands or ready-made workflows, with daily free credits for new users.",
+      "website": "https://allyhub.com",
+      "review_url": "https://autoventure.live/reviews/allyhub.html"
+    },
+    {
+      "name": "Browse.sh",
+      "slug": "browse-sh",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "An open-source browser CLI and skill catalog built by Browserbase that gives AI agents structured web-automation primitives (click, scroll, type, screenshot) and a community-driven skill library for s",
+      "website": "https://browse.sh",
+      "review_url": "https://autoventure.live/reviews/browse-sh.html"
+    },
+    {
+      "name": "Bubble",
+      "slug": "bubble",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free AI-assisted no-code app builder. Automate workflows and build full apps.",
+      "website": "https://bubble.io/",
+      "review_url": "https://autoventure.live/reviews/bubble.html"
+    },
+    {
+      "name": "Buda AI",
+      "slug": "buda-ai",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free Trial",
+      "description": "Cloud-native workspace for building, running, and coordinating specialized AI agents, with a free trial available.",
+      "website": "https://buda.ai",
+      "review_url": "https://autoventure.live/reviews/buda-ai.html"
+    },
+    {
+      "name": "Coda AI",
+      "slug": "coda-ai",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free AI document-database hybrid with formulas and automations.",
+      "website": "https://coda.io/",
+      "review_url": "https://autoventure.live/reviews/coda-ai.html"
+    },
+    {
+      "name": "Composio",
+      "slug": "composio",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Connects AI agents to 1,000+ apps with secure auth and tool execution, offering a free developer tier with 20K tool calls per month.",
+      "website": "https://www.composio.dev/",
+      "review_url": "https://autoventure.live/reviews/composio.html"
+    },
+    {
+      "name": "CrewAI",
+      "slug": "crewai",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Open-source platform for building, deploying, and managing multi-agent workflows with a visual editor and CLI; free Basic plan includes 50 workflow executions per month.",
+      "website": "https://www.crewai.com/",
+      "review_url": "https://autoventure.live/reviews/crewai.html"
+    },
+    {
+      "name": "Glide",
+      "slug": "glide",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free AI app builder from spreadsheets. Publish web and mobile apps instantly.",
+      "website": "https://www.glideapps.com/",
+      "review_url": "https://autoventure.live/reviews/glide.html"
+    },
+    {
+      "name": "Kissflow",
+      "slug": "kissflow",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free AI workflow automation for business processes. No-code app builder.",
+      "website": "https://kissflow.com/",
+      "review_url": "https://autoventure.live/reviews/kissflow.html"
+    },
+    {
+      "name": "Klavis AI",
+      "slug": "klavis-ai",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "YC-backed platform that provides live sandboxed environments for training and evaluating AI agents, with managed MCP servers and a free tier for basic usage.",
+      "website": "https://www.klavis.ai/",
+      "review_url": "https://autoventure.live/reviews/klavis-ai.html"
+    },
+    {
+      "name": "n8n",
+      "slug": "n8n",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free open-source workflow automation. Self-host or use cloud. AI nodes included.",
+      "website": "https://n8n.io/",
+      "review_url": "https://autoventure.live/reviews/n8n.html"
+    },
+    {
+      "name": "Notion AI",
+      "slug": "notion-ai",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free AI-assisted databases and automation. 5 MB uploads on free tier.",
+      "website": "https://www.notion.so/",
+      "review_url": "https://autoventure.live/reviews/notion-ai.html"
+    },
+    {
+      "name": "Pipedream",
+      "slug": "pipedream",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free workflow automation for developers. Event-driven, code + no-code.",
+      "website": "https://pipedream.com/",
+      "review_url": "https://autoventure.live/reviews/pipedream.html"
+    },
+    {
+      "name": "Process Street",
+      "slug": "process-street",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free AI workflow and checklist automation. Integrates with 1,000+ tools.",
+      "website": "https://www.process.st/",
+      "review_url": "https://autoventure.live/reviews/process-street.html"
+    },
+    {
+      "name": "Softr",
+      "slug": "softr",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free AI no-code builder for apps and portals. Connect to Airtable/Notion.",
+      "website": "https://www.softr.io/",
+      "review_url": "https://autoventure.live/reviews/softr.html"
+    },
+    {
+      "name": "Webflow",
+      "slug": "webflow",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free AI website builder with automation. Visual CMS and integrations.",
+      "website": "https://webflow.com/",
+      "review_url": "https://autoventure.live/reviews/webflow.html"
+    },
+    {
+      "name": "WorkBeaver",
+      "slug": "workbeaver",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Agentic automation platform that runs operational workflows invisibly in the background across any website, with a free early-adopter tier that includes up to 25 simple task runs.",
+      "website": "https://workbeaver.ai",
+      "review_url": "https://autoventure.live/reviews/workbeaver.html"
+    },
+    {
+      "name": "WorkClaw",
+      "slug": "workclaw",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "A collaborative AI-coworker platform built on OpenClaw where teams deploy custom AI agents that work 24/7 across Slack, email, and 3,000+ apps; new accounts receive $100 in free credits with no credit",
+      "website": "https://workclaw.ai",
+      "review_url": "https://autoventure.live/reviews/workclaw.html"
+    },
+    {
+      "name": "Zapier",
+      "slug": "zapier",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Free AI workflow automation connecting 5,000+ apps. 5 Zaps and 100 tasks/month on free tier.",
+      "website": "https://zapier.com/",
+      "review_url": "https://autoventure.live/reviews/zapier.html"
+    },
+    {
+      "name": "Botpress",
+      "slug": "botpress",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free",
+      "description": "Open-source AI chatbot platform with a free cloud tier and on-premise deployment option.",
+      "website": "https://botpress.com/",
+      "review_url": "https://autoventure.live/reviews/botpress.html"
+    },
+    {
+      "name": "Chatfuel",
+      "slug": "chatfuel",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free",
+      "description": "No-code chatbot builder for Instagram and Facebook with a free plan for basic bots.",
+      "website": "https://chatfuel.com/",
+      "review_url": "https://autoventure.live/reviews/chatfuel.html"
+    },
+    {
+      "name": "DeepSeek",
+      "slug": "deepseek",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free",
+      "description": "General-purpose AI chat and coding assistant with free web/app access and an open API platform for developers.",
+      "website": "https://www.deepseek.com/",
+      "review_url": "https://autoventure.live/reviews/deepseek.html"
+    },
+    {
+      "name": "Flow XO",
+      "slug": "flow-xo",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free",
+      "description": "Multi-platform chatbot builder with free bots and integrations for web, Slack, and social.",
+      "website": "https://flowxo.com/",
+      "review_url": "https://autoventure.live/reviews/flow-xo.html"
+    },
+    {
+      "name": "Freshdesk Fred AI",
+      "slug": "freshdesk-fred-ai",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free",
+      "description": "AI chatbot and automation for support teams; free plan available for up to 10 agents.",
+      "website": "https://www.freshworks.com/freshdesk/",
+      "review_url": "https://autoventure.live/reviews/freshdesk-fred-ai.html"
+    },
+    {
+      "name": "Grok",
+      "slug": "grok",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free",
+      "description": "Free AI chatbot from xAI with real-time web and X search, voice mode, and image generation, available through a generous free tier.",
+      "website": "https://grok.x.ai",
+      "review_url": "https://autoventure.live/reviews/grok.html"
+    },
+    {
+      "name": "Intercom Fin",
+      "slug": "intercom-fin",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free Trial",
+      "description": "AI support bot with a free trial for small teams, powered by advanced language models.",
+      "website": "https://www.intercom.com/fin",
+      "review_url": "https://autoventure.live/reviews/intercom-fin.html"
+    },
+    {
+      "name": "Landbot",
+      "slug": "landbot",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free",
+      "description": "Visual chatbot builder with a free plan for conversational workflows and WhatsApp integration.",
+      "website": "https://landbot.io/",
+      "review_url": "https://autoventure.live/reviews/landbot.html"
+    },
+    {
+      "name": "ManyChat",
+      "slug": "manychat",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free",
+      "description": "AI chatbot for Instagram, Facebook, and SMS with a free starter tier for up to 1,000 contacts.",
+      "website": "https://manychat.com/",
+      "review_url": "https://autoventure.live/reviews/manychat.html"
+    },
+    {
+      "name": "MobileMonkey",
+      "slug": "mobilemonkey",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free",
+      "description": "AI chatbot for Facebook Messenger, Instagram, and SMS with a free tier for lead gen.",
+      "website": "https://customers.ai/",
+      "review_url": "https://autoventure.live/reviews/mobilemonkey.html"
+    },
+    {
+      "name": "Tars",
+      "slug": "tars",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free Trial",
+      "description": "AI chatbot for landing pages and lead capture with a free trial for new users.",
+      "website": "https://hellotars.com/",
+      "review_url": "https://autoventure.live/reviews/tars.html"
+    },
+    {
+      "name": "Tidio",
+      "slug": "tidio",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free",
+      "description": "Free AI chatbot for small business. Live chat + chatbot combo with a free plan for up to 100 unique visitors/month.",
+      "website": "https://www.tidio.com/",
+      "review_url": "https://autoventure.live/reviews/tidio.html"
+    },
+    {
+      "name": "Zendesk AI",
+      "slug": "zendesk-ai",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free Trial",
+      "description": "AI-powered answer bot and ticket routing with a free trial for small support teams.",
+      "website": "https://www.zendesk.com/service/ai/",
+      "review_url": "https://autoventure.live/reviews/zendesk-ai.html"
+    },
+    {
+      "name": "Aider",
+      "slug": "aider",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Open-source terminal-based AI pair programmer that edits code across 100+ languages with full git integration, free to use.",
+      "website": "https://aider.chat",
+      "review_url": "https://autoventure.live/reviews/aider.html"
+    },
+    {
+      "name": "Amazon Q Developer",
+      "slug": "amazon-q-developer",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Free AI coding assistant for VS Code, JetBrains, and CLI with code completion, chat, and agentic refactoring; free tier includes monthly limits.",
+      "website": "https://aws.amazon.com/q/developer/",
+      "review_url": "https://autoventure.live/reviews/amazon-q-developer.html"
+    },
+    {
+      "name": "Blackbox AI",
+      "slug": "blackbox-ai",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "AI coding agent and platform that refactors code, generates tests, and reviews pull requests across 35+ IDEs, with a free tier for chat and basic agent use.",
+      "website": "https://blackbox.ai",
+      "review_url": "https://autoventure.live/reviews/blackbox-ai.html"
+    },
+    {
+      "name": "Bolt.new",
+      "slug": "bolt-new",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "In-browser AI app builder that generates full-stack websites and apps from prompts; free tier includes 300K daily tokens and hosting.",
+      "website": "https://bolt.new/",
+      "review_url": "https://autoventure.live/reviews/bolt-new.html"
+    },
+    {
+      "name": "Codeium",
+      "slug": "codeium",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Free AI code completion and chat. Supports 70+ languages with fast suggestions.",
+      "website": "https://codeium.com/",
+      "review_url": "https://autoventure.live/reviews/codeium.html"
+    },
+    {
+      "name": "CodeRabbit",
+      "slug": "coderabbit",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "AI code-review assistant that provides line-by-line feedback, bug detection, and auto-fixes for pull requests directly in GitHub/GitLab, IDEs, and CLI; the free plan includes PR summarization and unli",
+      "website": "https://coderabbit.ai",
+      "review_url": "https://autoventure.live/reviews/coderabbit.html"
+    },
+    {
+      "name": "Cursor",
+      "slug": "cursor",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "AI-powered code editor and agent that completes code, reviews PRs, and runs tasks in the IDE; free Hobby plan includes limited completions and agent requests with no credit card.",
+      "website": "https://www.cursor.com/",
+      "review_url": "https://autoventure.live/reviews/cursor.html"
+    },
+    {
+      "name": "Devin",
+      "slug": "devin",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "AI software engineer that autonomously writes code, creates pull requests, and handles full development tasks; free tier includes light agent quota, unlimited inline edits, and unlimited tab completio",
+      "website": "https://devin.ai/pricing",
+      "review_url": "https://autoventure.live/reviews/devin.html"
+    },
+    {
+      "name": "Langfuse",
+      "slug": "langfuse",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Open-source LLM observability and prompt management platform for tracing, evaluating, and improving AI applications, with a free tier.",
+      "website": "https://langfuse.com",
+      "review_url": "https://autoventure.live/reviews/langfuse.html"
+    },
+    {
+      "name": "Letta",
+      "slug": "letta",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Open-source agent framework and research lab offering stateful, self-improving AI agents with git-based memory; free tier includes up to three managed agents and BYOK support.",
+      "website": "https://www.letta.com/",
+      "review_url": "https://autoventure.live/reviews/letta.html"
+    },
+    {
+      "name": "LM Studio",
+      "slug": "lm-studio",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Desktop application to run local LLMs privately on your own hardware, free for home and work use with no subscription required.",
+      "website": "https://lmstudio.ai",
+      "review_url": "https://autoventure.live/reviews/lm-studio.html"
+    },
+    {
+      "name": "Lovable",
+      "slug": "lovable",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "AI app builder for creating and shipping web apps by chatting with AI; free tier available with public projects and basic hosting.",
+      "website": "https://lovable.dev/",
+      "review_url": "https://autoventure.live/reviews/lovable.html"
+    },
+    {
+      "name": "Superagent",
+      "slug": "superagent",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "An open-source AI security platform backed by Y Combinator that continuously finds and patches vulnerabilities in code and AI agents, shipping every fix as a pull request; free for public GitHub repos",
+      "website": "https://superagent.sh",
+      "review_url": "https://autoventure.live/reviews/superagent.html"
+    },
+    {
+      "name": "Tabnine",
+      "slug": "tabnine",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "AI code assistant with a free Basic tier that provides short code completions and basic AI chat across major IDEs and editors.",
+      "website": "https://www.tabnine.com",
+      "review_url": "https://autoventure.live/reviews/tabnine.html"
+    },
+    {
+      "name": "v0 by Vercel",
+      "slug": "v0-by-vercel",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Free AI frontend generator that turns text prompts into working React/Tailwind components and full-stack apps, with free monthly credits and one-click Vercel deployment.",
+      "website": "https://v0.dev",
+      "review_url": "https://autoventure.live/reviews/v0-by-vercel.html"
+    },
+    {
+      "name": "Chatwoot",
+      "slug": "chatwoot",
+      "category": "Customer Service",
+      "category_id": "customer-service-tools",
+      "pricing": "Free",
+      "description": "Free open-source live chat and helpdesk. Self-host or use cloud.",
+      "website": "https://www.chatwoot.com/",
+      "review_url": "https://autoventure.live/reviews/chatwoot.html"
+    },
+    {
+      "name": "Crisp",
+      "slug": "crisp",
+      "category": "Customer Service",
+      "category_id": "customer-service-tools",
+      "pricing": "Free",
+      "description": "Free AI chatbot and live chat for websites. Mobile app included.",
+      "website": "https://crisp.chat/",
+      "review_url": "https://autoventure.live/reviews/crisp.html"
+    },
+    {
+      "name": "Gorgias",
+      "slug": "gorgias",
+      "category": "Customer Service",
+      "category_id": "customer-service-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI helpdesk for ecommerce. Unified inbox for email, chat, and social.",
+      "website": "https://www.gorgias.com/",
+      "review_url": "https://autoventure.live/reviews/gorgias.html"
+    },
+    {
+      "name": "Help Scout",
+      "slug": "help-scout",
+      "category": "Customer Service",
+      "category_id": "customer-service-tools",
+      "pricing": "Free",
+      "description": "Free AI helpdesk for small teams. Shared inbox, docs, and automated workflows.",
+      "website": "https://www.helpscout.com/",
+      "review_url": "https://autoventure.live/reviews/help-scout.html"
+    },
+    {
+      "name": "HubSpot Service Hub",
+      "slug": "hubspot-service-hub",
+      "category": "Customer Service",
+      "category_id": "customer-service-tools",
+      "pricing": "Free",
+      "description": "Free AI customer service with ticketing, live chat, and knowledge base.",
+      "website": "https://www.hubspot.com/products/service",
+      "review_url": "https://autoventure.live/reviews/hubspot-service-hub.html"
+    },
+    {
+      "name": "Intercom AI",
+      "slug": "intercom-ai",
+      "category": "Customer Service",
+      "category_id": "customer-service-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI chatbot and live chat for customer engagement. Product tours included.",
+      "website": "https://www.intercom.com/",
+      "review_url": "https://autoventure.live/reviews/intercom-ai.html"
+    },
+    {
+      "name": "Levity",
+      "slug": "levity",
+      "category": "Customer Service",
+      "category_id": "customer-service-tools",
+      "pricing": "Free",
+      "description": "Free AI ticket classification and routing. No-code automation for support teams.",
+      "website": "https://www.levity.ai/",
+      "review_url": "https://autoventure.live/reviews/levity.html"
+    },
+    {
+      "name": "LiveChat",
+      "slug": "livechat",
+      "category": "Customer Service",
+      "category_id": "customer-service-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI live chat with chatbot and ticketing. 14-day free trial.",
+      "website": "https://www.livechat.com/",
+      "review_url": "https://autoventure.live/reviews/livechat.html"
+    },
+    {
+      "name": "MonkeyLearn",
+      "slug": "monkeylearn",
+      "category": "Customer Service",
+      "category_id": "customer-service-tools",
+      "pricing": "Free",
+      "description": "Free AI text analysis for support tickets. Classify and route tickets automatically.",
+      "website": "https://monkeylearn.com/",
+      "review_url": "https://autoventure.live/reviews/monkeylearn.html"
+    },
+    {
+      "name": "Salesforce Service Cloud",
+      "slug": "salesforce-service-cloud",
+      "category": "Customer Service",
+      "category_id": "customer-service-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI case routing and auto-responses. Einstein AI included.",
+      "website": "https://www.salesforce.com/service/",
+      "review_url": "https://autoventure.live/reviews/salesforce-service-cloud.html"
+    },
+    {
+      "name": "Tawk.to",
+      "slug": "tawk-to",
+      "category": "Customer Service",
+      "category_id": "customer-service-tools",
+      "pricing": "Free",
+      "description": "Free AI live chat and helpdesk. Unlimited agents with AI-powered responses.",
+      "website": "https://www.tawk.to/",
+      "review_url": "https://autoventure.live/reviews/tawk-to.html"
+    },
+    {
+      "name": "Zoho Desk AI",
+      "slug": "zoho-desk-ai",
+      "category": "Customer Service",
+      "category_id": "customer-service-tools",
+      "pricing": "Free",
+      "description": "Free AI helpdesk with sentiment analysis and auto-ticket tagging.",
+      "website": "https://www.zoho.com/desk/",
+      "review_url": "https://autoventure.live/reviews/zoho-desk-ai.html"
+    },
+    {
+      "name": "Datawrapper",
+      "slug": "datawrapper",
+      "category": "Data",
+      "category_id": "data-tools",
+      "pricing": "Free",
+      "description": "Simple chart and map builder with AI-assisted design suggestions.",
+      "website": "https://www.datawrapper.de/",
+      "review_url": "https://autoventure.live/reviews/datawrapper.html"
+    },
+    {
+      "name": "Deepnote",
+      "slug": "deepnote",
+      "category": "Data",
+      "category_id": "data-tools",
+      "pricing": "Free",
+      "description": "Collaborative data science notebook with built-in AI for analytics, data apps, and ETL pipelines, offering a free tier.",
+      "website": "https://deepnote.com",
+      "review_url": "https://autoventure.live/reviews/deepnote.html"
+    },
+    {
+      "name": "Flourish",
+      "slug": "flourish",
+      "category": "Data",
+      "category_id": "data-tools",
+      "pricing": "Free",
+      "description": "Template-based visualization tool with free public publishing.",
+      "website": "https://flourish.studio/",
+      "review_url": "https://autoventure.live/reviews/flourish.html"
+    },
+    {
+      "name": "Google Sheets AI",
+      "slug": "google-sheets-ai",
+      "category": "Data",
+      "category_id": "data-tools",
+      "pricing": "Free",
+      "description": "Free AI-assisted spreadsheet analysis. Smart formulas, insights, and auto-summaries.",
+      "website": "https://www.google.com/sheets/about/",
+      "review_url": "https://autoventure.live/reviews/google-sheets-ai.html"
+    },
+    {
+      "name": "Hugging Face Datasets",
+      "slug": "hugging-face-datasets",
+      "category": "Data",
+      "category_id": "data-tools",
+      "pricing": "Free",
+      "description": "Open-source library and community for dataset preparation and labeling.",
+      "website": "https://huggingface.co/datasets",
+      "review_url": "https://autoventure.live/reviews/hugging-face-datasets.html"
+    },
+    {
+      "name": "Label Studio",
+      "slug": "label-studio",
+      "category": "Data",
+      "category_id": "data-tools",
+      "pricing": "Free",
+      "description": "Open-source data labeling platform with AI-assisted pre-labeling.",
+      "website": "https://labelstud.io/",
+      "review_url": "https://autoventure.live/reviews/label-studio.html"
+    },
+    {
+      "name": "New Relic AI",
+      "slug": "new-relic-ai",
+      "category": "Data",
+      "category_id": "data-tools",
+      "pricing": "Free",
+      "description": "AI-powered observability assistant that lets developers and DevOps teams query telemetry data, debug errors, and monitor system health using plain English; free tier includes 100 GB/month data ingest.",
+      "website": "https://newrelic.com/pricing",
+      "review_url": "https://autoventure.live/reviews/new-relic-ai.html"
+    },
+    {
+      "name": "Observable",
+      "slug": "observable",
+      "category": "Data",
+      "category_id": "data-tools",
+      "pricing": "Free",
+      "description": "Interactive data visualization notebooks with AI helpers for quick charting.",
+      "website": "https://observablehq.com/",
+      "review_url": "https://autoventure.live/reviews/observable.html"
+    },
+    {
+      "name": "Prodigy",
+      "slug": "prodigy",
+      "category": "Data",
+      "category_id": "data-tools",
+      "pricing": "Free Trial",
+      "description": "AI-powered annotation tool with a free trial for small projects.",
+      "website": "https://prodi.gy/",
+      "review_url": "https://autoventure.live/reviews/prodigy.html"
+    },
+    {
+      "name": "Tableau Public",
+      "slug": "tableau-public",
+      "category": "Data",
+      "category_id": "data-tools",
+      "pricing": "Free",
+      "description": "Free data visualization platform with AI-assisted chart recommendations.",
+      "website": "https://public.tableau.com/",
+      "review_url": "https://autoventure.live/reviews/tableau-public.html"
+    },
+    {
+      "name": "Adobe Firefly",
+      "slug": "adobe-firefly",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI image generation integrated with Creative Cloud. Text-to-image and text effects.",
+      "website": "https://www.adobe.com/products/firefly.html",
+      "review_url": "https://autoventure.live/reviews/adobe-firefly.html"
+    },
+    {
+      "name": "Designs.ai",
+      "slug": "designs-ai",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI design suite for logos, videos, and banners. Generous free credits.",
+      "website": "https://designs.ai/",
+      "review_url": "https://autoventure.live/reviews/designs-ai.html"
+    },
+    {
+      "name": "Figma",
+      "slug": "figma",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Collaborative design tool with AI features for wireframing, prototyping, and UI design, offering a free Starter plan with 150 AI credits per day.",
+      "website": "https://www.figma.com",
+      "review_url": "https://autoventure.live/reviews/figma.html"
+    },
+    {
+      "name": "Fontjoy",
+      "slug": "fontjoy",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI font pairing tool. Generate harmonious font combinations instantly.",
+      "website": "https://fontjoy.com/",
+      "review_url": "https://autoventure.live/reviews/fontjoy.html"
+    },
+    {
+      "name": "Galileo AI",
+      "slug": "galileo-ai",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI UI design generator. Create editable Figma designs from text prompts.",
+      "website": "https://www.usegalileo.ai/",
+      "review_url": "https://autoventure.live/reviews/galileo-ai.html"
+    },
+    {
+      "name": "Khroma",
+      "slug": "khroma",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI color palette generator trained on your preferences. Infinite combinations.",
+      "website": "https://www.khroma.co/",
+      "review_url": "https://autoventure.live/reviews/khroma.html"
+    },
+    {
+      "name": "Kittl",
+      "slug": "kittl",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "AI-first design platform for creating logos, merchandise, and social graphics with text effects and vector generation, offering a free tier with no credit card required.",
+      "website": "https://kittl.com",
+      "review_url": "https://autoventure.live/reviews/kittl.html"
+    },
+    {
+      "name": "Looka",
+      "slug": "looka",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI logo maker. Generate complete brand identities in minutes.",
+      "website": "https://looka.com/",
+      "review_url": "https://autoventure.live/reviews/looka.html"
+    },
+    {
+      "name": "Makko AI",
+      "slug": "makko-ai",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "AI studio that generates 2D game characters, animations, backgrounds, and props from text descriptions, then builds playable browser games from plain-English prompts; free tier includes monthly art bu",
+      "website": "https://makko.ai",
+      "review_url": "https://autoventure.live/reviews/makko-ai.html"
+    },
+    {
+      "name": "Microsoft Designer",
+      "slug": "microsoft-designer",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI-powered design tool from Microsoft for creating social graphics, presentations, and images with DALL-E integration.",
+      "website": "https://designer.microsoft.com/",
+      "review_url": "https://autoventure.live/reviews/microsoft-designer.html"
+    },
+    {
+      "name": "Midjourney",
+      "slug": "midjourney",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI image generator with stunning artistic styles. Create visuals from text prompts.",
+      "website": "https://www.midjourney.com/",
+      "review_url": "https://autoventure.live/reviews/midjourney.html"
+    },
+    {
+      "name": "Napkin AI",
+      "slug": "napkin-ai",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Turns text into visuals like diagrams, flowcharts, and infographics with AI, offering a free tier of 500 weekly credits and unlimited editing.",
+      "website": "https://napkin.ai",
+      "review_url": "https://autoventure.live/reviews/napkin-ai.html"
+    },
+    {
+      "name": "Relume",
+      "slug": "relume",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI sitemap and wireframe generator for web design projects.",
+      "website": "https://www.relume.io/",
+      "review_url": "https://autoventure.live/reviews/relume.html"
+    },
+    {
+      "name": "Remove.bg",
+      "slug": "remove-bg",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI background remover for design assets. One-click processing.",
+      "website": "https://www.remove.bg/",
+      "review_url": "https://autoventure.live/reviews/remove-bg.html"
+    },
+    {
+      "name": "Smart Resize",
+      "slug": "smart-resize",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI image resizer for multiple platforms. Resize once, get all sizes.",
+      "website": "https://www.google.com/search?q=Smart%20Resize%20AI%20tool",
+      "review_url": "https://autoventure.live/reviews/smart-resize.html"
+    },
+    {
+      "name": "Stockimg AI",
+      "slug": "stockimg-ai",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "All-in-one AI design tool that generates logos, stock photos, social posts, and short videos, with a free plan for creating and scheduling content.",
+      "website": "https://stockimg.ai",
+      "review_url": "https://autoventure.live/reviews/stockimg-ai.html"
+    },
+    {
+      "name": "Strattic AI",
+      "slug": "strattic-ai",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI landing page builder with design-first approach.",
+      "website": "https://strattic.com/",
+      "review_url": "https://autoventure.live/reviews/strattic-ai.html"
+    },
+    {
+      "name": "Uizard",
+      "slug": "uizard",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI UI generator from sketches or text. Export to Figma or code.",
+      "website": "https://uizard.io/",
+      "review_url": "https://autoventure.live/reviews/uizard.html"
+    },
+    {
+      "name": "Visily",
+      "slug": "visily",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "AI-powered wireframing and prototyping platform that turns screenshots, text prompts, or diagrams into editable UI mockups for non-designers; the free Starter plan offers 300 AI credits per month.",
+      "website": "https://visily.ai",
+      "review_url": "https://autoventure.live/reviews/visily.html"
+    },
+    {
+      "name": "Cin7",
+      "slug": "cin7",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free",
+      "description": "Free AI inventory management with order automation. 50 orders/month free.",
+      "website": "https://www.cin7.com/",
+      "review_url": "https://autoventure.live/reviews/cin7.html"
+    },
+    {
+      "name": "Competera",
+      "slug": "competera",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI dynamic pricing platform. Price monitoring and competitive analysis.",
+      "website": "https://competera.net/",
+      "review_url": "https://autoventure.live/reviews/competera.html"
+    },
+    {
+      "name": "Copy Shark",
+      "slug": "copy-shark",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free",
+      "description": "Free AI product description writer. Ecommerce-specific templates and bulk mode.",
+      "website": "https://copyshark.ai/",
+      "review_url": "https://autoventure.live/reviews/copy-shark.html"
+    },
+    {
+      "name": "Copy.ai",
+      "slug": "copy-ai",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free",
+      "description": "Free AI product description generator. Templates for Amazon, Shopify, and ecommerce.",
+      "website": "https://www.copy.ai/",
+      "review_url": "https://autoventure.live/reviews/copy-ai.html"
+    },
+    {
+      "name": "EcomDash",
+      "slug": "ecomdash",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free",
+      "description": "Free AI inventory management with reorder points and supplier tracking.",
+      "website": "https://www.ecomdash.com/",
+      "review_url": "https://autoventure.live/reviews/ecomdash.html"
+    },
+    {
+      "name": "Jasper AI",
+      "slug": "jasper-ai",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free Trial",
+      "description": "Free trial AI product copywriter. Templates for Amazon, Shopify, and SEO.",
+      "website": "https://www.jasper.ai/",
+      "review_url": "https://autoventure.live/reviews/jasper-ai.html"
+    },
+    {
+      "name": "Mango",
+      "slug": "mango",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free",
+      "description": "Free AI profit optimization for ecommerce. Smart pricing and inventory alerts.",
+      "website": "https://mango.com/",
+      "review_url": "https://autoventure.live/reviews/mango.html"
+    },
+    {
+      "name": "Omnia Retail",
+      "slug": "omnia-retail",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI pricing and retail management. Market intelligence and margin analysis.",
+      "website": "https://www.omniaretail.com/",
+      "review_url": "https://autoventure.live/reviews/omnia-retail.html"
+    },
+    {
+      "name": "Orderhive",
+      "slug": "orderhive",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free",
+      "description": "Free AI inventory and shipping management. Amazon, Shopify, and eBay sync.",
+      "website": "https://www.orderhive.com/",
+      "review_url": "https://autoventure.live/reviews/orderhive.html"
+    },
+    {
+      "name": "PriceShape",
+      "slug": "priceshape",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free",
+      "description": "Free AI pricing optimization with margin protection. Auto-repricing included.",
+      "website": "https://priceshape.com/",
+      "review_url": "https://autoventure.live/reviews/priceshape.html"
+    },
+    {
+      "name": "Simplified",
+      "slug": "simplified",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free",
+      "description": "Free AI product description generator with design and scheduling built in.",
+      "website": "https://simplified.com/",
+      "review_url": "https://autoventure.live/reviews/simplified.html"
+    },
+    {
+      "name": "TradeGecko",
+      "slug": "tradegecko",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free",
+      "description": "Free AI inventory and order management. Multi-channel sync and analytics.",
+      "website": "https://www.tradegecko.com/",
+      "review_url": "https://autoventure.live/reviews/tradegecko.html"
+    },
+    {
+      "name": "Wiser",
+      "slug": "wiser",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free",
+      "description": "Free AI pricing intelligence for retailers. Competitor price tracking.",
+      "website": "https://www.wiser.com/",
+      "review_url": "https://autoventure.live/reviews/wiser.html"
+    },
+    {
+      "name": "Zoho Inventory AI",
+      "slug": "zoho-inventory-ai",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free",
+      "description": "Free AI inventory management with demand forecasting and order routing.",
+      "website": "https://www.zoho.com/inventory/",
+      "review_url": "https://autoventure.live/reviews/zoho-inventory-ai.html"
+    },
+    {
+      "name": "Canva for Education",
+      "slug": "canva-for-education",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "Free AI design tool for teachers. Create worksheets, presentations, and visual lessons.",
+      "website": "https://www.canva.com/education/",
+      "review_url": "https://autoventure.live/reviews/canva-for-education.html"
+    },
+    {
+      "name": "Course Hero AI",
+      "slug": "course-hero-ai",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "Free AI homework help and textbook solutions with expert explanations.",
+      "website": "https://www.coursehero.com/",
+      "review_url": "https://autoventure.live/reviews/course-hero-ai.html"
+    },
+    {
+      "name": "Coursera (Free Audit)",
+      "slug": "coursera-free-audit",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "Free AI and data science courses from top universities. Audit mode with optional paid certificates.",
+      "website": "https://www.coursera.org/",
+      "review_url": "https://autoventure.live/reviews/coursera-free-audit.html"
+    },
+    {
+      "name": "Duolingo Max",
+      "slug": "duolingo-max",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "Free AI-powered language learning with GPT-4 explanations, roleplay, and streak repairs.",
+      "website": "https://www.duolingo.com/",
+      "review_url": "https://autoventure.live/reviews/duolingo-max.html"
+    },
+    {
+      "name": "Eduflow",
+      "slug": "eduflow",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "Free AI course builder with peer review and interactive learning activities.",
+      "website": "https://eduflow.com/",
+      "review_url": "https://autoventure.live/reviews/eduflow.html"
+    },
+    {
+      "name": "Gradescope",
+      "slug": "gradescope",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "Free AI grading and assessment platform for teachers. Streamlined rubric-based grading.",
+      "website": "https://www.gradescope.com/",
+      "review_url": "https://autoventure.live/reviews/gradescope.html"
+    },
+    {
+      "name": "Grammarly",
+      "slug": "grammarly",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "Free AI writing assistant for essays and research papers. Grammar, tone, and plagiarism check.",
+      "website": "https://www.grammarly.com/",
+      "review_url": "https://autoventure.live/reviews/grammarly.html"
+    },
+    {
+      "name": "MagicSchool AI",
+      "slug": "magicschool-ai",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "AI platform built for teachers and students with 80+ educator tools and 50+ student tools, free for teachers.",
+      "website": "https://www.magicschool.ai",
+      "review_url": "https://autoventure.live/reviews/magicschool-ai.html"
+    },
+    {
+      "name": "Memrise",
+      "slug": "memrise",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "Free AI language learning with spaced repetition and native speaker video clips.",
+      "website": "https://www.memrise.com/",
+      "review_url": "https://autoventure.live/reviews/memrise.html"
+    },
+    {
+      "name": "Paperpal",
+      "slug": "paperpal",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "AI academic writing assistant for researchers and students offering grammar checking, paraphrasing, citation generation, and unlimited free PDF chat with monthly usage limits.",
+      "website": "https://www.paperpal.com",
+      "review_url": "https://autoventure.live/reviews/paperpal.html"
+    },
+    {
+      "name": "QuillBot",
+      "slug": "quillbot",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "Free AI paraphrasing, summarization, and citation generator for academic writing.",
+      "website": "https://quillbot.com/",
+      "review_url": "https://autoventure.live/reviews/quillbot.html"
+    },
+    {
+      "name": "Quizlet AI",
+      "slug": "quizlet-ai",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "Free AI-powered flashcards, practice tests, and study modes. Adaptive learning engine.",
+      "website": "https://quizlet.com/",
+      "review_url": "https://autoventure.live/reviews/quizlet-ai.html"
+    },
+    {
+      "name": "Socratic by Google",
+      "slug": "socratic-by-google",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "Free AI homework helper powered by Google AI. Scan questions, get explanations across subjects.",
+      "website": "https://socratic.org/",
+      "review_url": "https://autoventure.live/reviews/socratic-by-google.html"
+    },
+    {
+      "name": "Symbolab",
+      "slug": "symbolab",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free",
+      "description": "Free AI math problem solver with step-by-step explanations for algebra, calculus, and more.",
+      "website": "https://www.symbolab.com/",
+      "review_url": "https://autoventure.live/reviews/symbolab.html"
+    },
+    {
+      "name": "Boomerang",
+      "slug": "boomerang",
+      "category": "Email",
+      "category_id": "email-tools",
+      "pricing": "Free",
+      "description": "Free AI email scheduler and follow-up reminders for Gmail. Inbox pause included.",
+      "website": "https://www.boomerangapp.com/",
+      "review_url": "https://autoventure.live/reviews/boomerang.html"
+    },
+    {
+      "name": "Hunter",
+      "slug": "hunter",
+      "category": "Email",
+      "category_id": "email-tools",
+      "pricing": "Free",
+      "description": "Free AI email finder and verifier. Find decision-maker emails and check deliverability.",
+      "website": "https://hunter.io/",
+      "review_url": "https://autoventure.live/reviews/hunter.html"
+    },
+    {
+      "name": "Lemlist",
+      "slug": "lemlist",
+      "category": "Email",
+      "category_id": "email-tools",
+      "pricing": "Free",
+      "description": "Free AI cold email tool with personalized images and dynamic landing pages.",
+      "website": "https://www.lemlist.com/",
+      "review_url": "https://autoventure.live/reviews/lemlist.html"
+    },
+    {
+      "name": "Mailbird",
+      "slug": "mailbird",
+      "category": "Email",
+      "category_id": "email-tools",
+      "pricing": "Free",
+      "description": "Free AI email client with unified inbox, scheduling, and built-in apps.",
+      "website": "https://www.getmailbird.com/",
+      "review_url": "https://autoventure.live/reviews/mailbird.html"
+    },
+    {
+      "name": "Mailshake",
+      "slug": "mailshake",
+      "category": "Email",
+      "category_id": "email-tools",
+      "pricing": "Free",
+      "description": "Free AI cold email outreach with personalization and follow-up automation. 5 emails/day free.",
+      "website": "https://mailshake.com/",
+      "review_url": "https://autoventure.live/reviews/mailshake.html"
+    },
+    {
+      "name": "Mailspring",
+      "slug": "mailspring",
+      "category": "Email",
+      "category_id": "email-tools",
+      "pricing": "Free",
+      "description": "Free open-source email client with AI-powered unified inbox and read receipts.",
+      "website": "https://getmailspring.com/",
+      "review_url": "https://autoventure.live/reviews/mailspring.html"
+    },
+    {
+      "name": "Mixmax",
+      "slug": "mixmax",
+      "category": "Email",
+      "category_id": "email-tools",
+      "pricing": "Free",
+      "description": "Free AI email scheduling and tracking for Gmail. Templates, polls, and surveys.",
+      "website": "https://mixmax.com/",
+      "review_url": "https://autoventure.live/reviews/mixmax.html"
+    },
+    {
+      "name": "Polymail",
+      "slug": "polymail",
+      "category": "Email",
+      "category_id": "email-tools",
+      "pricing": "Free",
+      "description": "Free AI email client with send-time optimization, read tracking, and undo send.",
+      "website": "https://polymail.io/",
+      "review_url": "https://autoventure.live/reviews/polymail.html"
+    },
+    {
+      "name": "Rytr",
+      "slug": "rytr",
+      "category": "Email",
+      "category_id": "email-tools",
+      "pricing": "Free",
+      "description": "Free AI writing assistant for emails, newsletters, and outreach. 10,000 characters/month free.",
+      "website": "https://rytr.me/",
+      "review_url": "https://autoventure.live/reviews/rytr.html"
+    },
+    {
+      "name": "Smartlead",
+      "slug": "smartlead",
+      "category": "Email",
+      "category_id": "email-tools",
+      "pricing": "Free",
+      "description": "Free AI cold email platform with unlimited email warmup and multi-inbox support.",
+      "website": "https://smartlead.ai/",
+      "review_url": "https://autoventure.live/reviews/smartlead.html"
+    },
+    {
+      "name": "Snov.io",
+      "slug": "snov-io",
+      "category": "Email",
+      "category_id": "email-tools",
+      "pricing": "Free",
+      "description": "Free AI email finder, verifier, and drip campaign tool for outreach automation.",
+      "website": "https://snov.io/",
+      "review_url": "https://autoventure.live/reviews/snov-io.html"
+    },
+    {
+      "name": "Writesonic",
+      "slug": "writesonic",
+      "category": "Email",
+      "category_id": "email-tools",
+      "pricing": "Free",
+      "description": "Free AI email generator with templates for outreach, support, and marketing.",
+      "website": "https://writesonic.com/",
+      "review_url": "https://autoventure.live/reviews/writesonic.html"
+    },
+    {
+      "name": "Botkeeper",
+      "slug": "botkeeper",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free",
+      "description": "Free AI bookkeeping with automated data entry and financial reporting for small businesses.",
+      "website": "https://www.botkeeper.com/",
+      "review_url": "https://autoventure.live/reviews/botkeeper.html"
+    },
+    {
+      "name": "Docyt",
+      "slug": "docyt",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free",
+      "description": "Free AI document management and expense tracking with automated receipt processing.",
+      "website": "https://www.docyt.com/",
+      "review_url": "https://autoventure.live/reviews/docyt.html"
+    },
+    {
+      "name": "Kavout",
+      "slug": "kavout",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free",
+      "description": "Free AI stock analysis with K-score ratings and fundamental screening.",
+      "website": "https://kavout.com/",
+      "review_url": "https://autoventure.live/reviews/kavout.html"
+    },
+    {
+      "name": "KOF-X",
+      "slug": "kof-x",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free",
+      "description": "Free AI expense tracker with receipt scanning and automatic categorization.",
+      "website": "https://kof-x.com/",
+      "review_url": "https://autoventure.live/reviews/kof-x.html"
+    },
+    {
+      "name": "M1 Finance",
+      "slug": "m1-finance",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free",
+      "description": "Free AI-powered investing platform with automated rebalancing and smart portfolios.",
+      "website": "https://www.m1.com/",
+      "review_url": "https://autoventure.live/reviews/m1-finance.html"
+    },
+    {
+      "name": "Mint AI",
+      "slug": "mint-ai",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free",
+      "description": "Free AI budgeting and expense tracking with automatic categorization and financial insights.",
+      "website": "https://www.mint.com/",
+      "review_url": "https://autoventure.live/reviews/mint-ai.html"
+    },
+    {
+      "name": "Personal Capital",
+      "slug": "personal-capital",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free",
+      "description": "Free AI financial dashboard for net worth tracking, investment analysis, and retirement planning.",
+      "website": "https://www.personalcapital.com/",
+      "review_url": "https://autoventure.live/reviews/personal-capital.html"
+    },
+    {
+      "name": "PocketSmith",
+      "slug": "pocketsmith",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free",
+      "description": "AI calendar-based budgeting with cash flow forecasting. Free tier for up to 2 accounts.",
+      "website": "https://www.pocketsmith.com/",
+      "review_url": "https://autoventure.live/reviews/pocketsmith.html"
+    },
+    {
+      "name": "QuickBooks AI",
+      "slug": "quickbooks-ai",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free Trial",
+      "description": "AI-powered expense categorization, receipt matching, and invoice automation. Free 30-day trial.",
+      "website": "https://quickbooks.intuit.com/",
+      "review_url": "https://autoventure.live/reviews/quickbooks-ai.html"
+    },
+    {
+      "name": "Trade Ideas",
+      "slug": "trade-ideas",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free",
+      "description": "AI stock scanner with real-time alerts and backtesting. Free basic version available.",
+      "website": "https://www.trade-ideas.com/",
+      "review_url": "https://autoventure.live/reviews/trade-ideas.html"
+    },
+    {
+      "name": "TradingView (Free)",
+      "slug": "tradingview-free",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free",
+      "description": "AI-powered charting and stock screening with community insights. Free tier with powerful tools.",
+      "website": "https://www.tradingview.com/",
+      "review_url": "https://autoventure.live/reviews/tradingview-free.html"
+    },
+    {
+      "name": "Wave Accounting",
+      "slug": "wave-accounting",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free",
+      "description": "Free AI accounting software with invoicing, receipt scanning, and bank reconciliation.",
+      "website": "https://waveapps.com/",
+      "review_url": "https://autoventure.live/reviews/wave-accounting.html"
+    },
+    {
+      "name": "Wealthfront",
+      "slug": "wealthfront",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free",
+      "description": "Free automated investing with AI-driven portfolio management and financial planning.",
+      "website": "https://www.wealthfront.com/",
+      "review_url": "https://autoventure.live/reviews/wealthfront.html"
+    },
+    {
+      "name": "Xero (Free Trial)",
+      "slug": "xero-free-trial",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free Trial",
+      "description": "AI-assisted small business accounting with bank feeds and automated reports. Free 30-day trial.",
+      "website": "https://www.xero.com/",
+      "review_url": "https://autoventure.live/reviews/xero-free-trial.html"
+    },
+    {
+      "name": "Ada Health",
+      "slug": "ada-health",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free",
+      "description": "Free AI health assessment chatbot. Symptom checker and health insights.",
+      "website": "https://ada.com/",
+      "review_url": "https://autoventure.live/reviews/ada-health.html"
+    },
+    {
+      "name": "Babylon Health",
+      "slug": "babylon-health",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free",
+      "description": "Free AI health check and symptom analysis. Book appointments with GPs.",
+      "website": "https://www.babylonhealth.com/",
+      "review_url": "https://autoventure.live/reviews/babylon-health.html"
+    },
+    {
+      "name": "Fitbod",
+      "slug": "fitbod",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free",
+      "description": "Free AI workout generator. Personalized routines based on your equipment and goals.",
+      "website": "https://www.fitbod.me/",
+      "review_url": "https://autoventure.live/reviews/fitbod.html"
+    },
+    {
+      "name": "Freeletics",
+      "slug": "freeletics",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free",
+      "description": "Free AI personal trainer with bodyweight workouts. Adaptive training plans.",
+      "website": "https://www.freeletics.com/",
+      "review_url": "https://autoventure.live/reviews/freeletics.html"
+    },
+    {
+      "name": "Headspace AI",
+      "slug": "headspace-ai",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI meditation and mindfulness. Personalized sessions based on your mood.",
+      "website": "https://www.headspace.com/",
+      "review_url": "https://autoventure.live/reviews/headspace-ai.html"
+    },
+    {
+      "name": "Levels",
+      "slug": "levels",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free",
+      "description": "Free AI metabolic health tracking. CGM insights and nutrition scores.",
+      "website": "https://www.levels.com/",
+      "review_url": "https://autoventure.live/reviews/levels.html"
+    },
+    {
+      "name": "MyFitnessPal AI",
+      "slug": "myfitnesspal-ai",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free",
+      "description": "Free AI nutrition tracker with barcode scanning and calorie insights.",
+      "website": "https://www.myfitnesspal.com/",
+      "review_url": "https://autoventure.live/reviews/myfitnesspal-ai.html"
+    },
+    {
+      "name": "Nike Training Club AI",
+      "slug": "nike-training-club-ai",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free",
+      "description": "Free AI workout plans and nutrition guidance. Expert-designed programs.",
+      "website": "https://www.nike.com/ntc-app/",
+      "review_url": "https://autoventure.live/reviews/nike-training-club-ai.html"
+    },
+    {
+      "name": "Noom",
+      "slug": "noom",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI weight loss coaching with psychology-based lessons. 14-day free trial.",
+      "website": "https://noom.com/",
+      "review_url": "https://autoventure.live/reviews/noom.html"
+    },
+    {
+      "name": "Nutrino",
+      "slug": "nutrino",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free",
+      "description": "Free AI nutrition planner. Meal plans based on your goals and preferences.",
+      "website": "https://www.nutrino.com/",
+      "review_url": "https://autoventure.live/reviews/nutrino.html"
+    },
+    {
+      "name": "Sanvello",
+      "slug": "sanvello",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free",
+      "description": "Free AI mental health app with mood tracking, meditation, and CBT tools.",
+      "website": "https://www.sanvello.com/",
+      "review_url": "https://autoventure.live/reviews/sanvello.html"
+    },
+    {
+      "name": "Woebot",
+      "slug": "woebot",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free",
+      "description": "Free AI therapist chatbot for anxiety and depression. Mindfulness exercises.",
+      "website": "https://woebot.io/",
+      "review_url": "https://autoventure.live/reviews/woebot.html"
+    },
+    {
+      "name": "Youper",
+      "slug": "youper",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free",
+      "description": "Free AI therapist chatbot for anxiety and depression. Mindfulness exercises.",
+      "website": "https://youper.ai/",
+      "review_url": "https://autoventure.live/reviews/youper.html"
+    },
+    {
+      "name": "Zoe",
+      "slug": "zoe",
+      "category": "Health",
+      "category_id": "health-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI personalized nutrition based on gut health and blood responses.",
+      "website": "https://joinzoe.com/",
+      "review_url": "https://autoventure.live/reviews/zoe.html"
+    },
+    {
+      "name": "Codility",
+      "slug": "codility",
+      "category": "Hiring",
+      "category_id": "hiring-tools",
+      "pricing": "Free",
+      "description": "Free AI coding assessments and screening. Automated code reviews.",
+      "website": "https://www.codility.com/",
+      "review_url": "https://autoventure.live/reviews/codility.html"
+    },
+    {
+      "name": "Glassdoor AI",
+      "slug": "glassdoor-ai",
+      "category": "Hiring",
+      "category_id": "hiring-tools",
+      "pricing": "Free",
+      "description": "Free AI job recommendations and company insights. Salary and culture data.",
+      "website": "https://www.glassdoor.com/",
+      "review_url": "https://autoventure.live/reviews/glassdoor-ai.html"
+    },
+    {
+      "name": "HireEZ",
+      "slug": "hireez",
+      "category": "Hiring",
+      "category_id": "hiring-tools",
+      "pricing": "Free",
+      "description": "Free AI sourcing platform. LinkedIn recruitment and email outreach.",
+      "website": "https://hireez.com/",
+      "review_url": "https://autoventure.live/reviews/hireez.html"
+    },
+    {
+      "name": "HireVue",
+      "slug": "hirevue",
+      "category": "Hiring",
+      "category_id": "hiring-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI video interviewing and assessments. On-demand and live interviews.",
+      "website": "https://www.hirevue.com/",
+      "review_url": "https://autoventure.live/reviews/hirevue.html"
+    },
+    {
+      "name": "Indeed AI",
+      "slug": "indeed-ai",
+      "category": "Hiring",
+      "category_id": "hiring-tools",
+      "pricing": "Free",
+      "description": "Free AI job matching and resume search for employers. Sponsored job credits.",
+      "website": "https://www.indeed.com/",
+      "review_url": "https://autoventure.live/reviews/indeed-ai.html"
+    },
+    {
+      "name": "LinkedIn AI",
+      "slug": "linkedin-ai",
+      "category": "Hiring",
+      "category_id": "hiring-tools",
+      "pricing": "Free",
+      "description": "Free AI job matching and candidate sourcing. Skills insights and recommendations.",
+      "website": "https://www.linkedin.com/",
+      "review_url": "https://autoventure.live/reviews/linkedin-ai.html"
+    },
+    {
+      "name": "Pymetrics",
+      "slug": "pymetrics",
+      "category": "Hiring",
+      "category_id": "hiring-tools",
+      "pricing": "Free",
+      "description": "Free AI behavioral assessments and soft-skills matching. Bias-free hiring.",
+      "website": "https://www.pymetrics.ai/",
+      "review_url": "https://autoventure.live/reviews/pymetrics.html"
+    },
+    {
+      "name": "TestGorilla",
+      "slug": "testgorilla",
+      "category": "Hiring",
+      "category_id": "hiring-tools",
+      "pricing": "Free",
+      "description": "Free AI pre-employment assessments. Skills tests and personality tests.",
+      "website": "https://www.testgorilla.com/",
+      "review_url": "https://autoventure.live/reviews/testgorilla.html"
+    },
+    {
+      "name": "Vervoe",
+      "slug": "vervoe",
+      "category": "Hiring",
+      "category_id": "hiring-tools",
+      "pricing": "Free",
+      "description": "Free AI skills assessments and simulations. Hire based on performance.",
+      "website": "https://vervoe.com/",
+      "review_url": "https://autoventure.live/reviews/vervoe.html"
+    },
+    {
+      "name": "ZipRecruiter AI",
+      "slug": "ziprecruiter-ai",
+      "category": "Hiring",
+      "category_id": "hiring-tools",
+      "pricing": "Free",
+      "description": "Free AI job posting and candidate matching. One-click posting to 100+ boards.",
+      "website": "https://www.ziprecruiter.com/",
+      "review_url": "https://autoventure.live/reviews/ziprecruiter-ai.html"
+    },
+    {
+      "name": "Bigjpg",
+      "slug": "bigjpg",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "Free AI image enlarger and noise reducer. Upscale anime and photo images without quality loss.",
+      "website": "https://bigjpg.com/",
+      "review_url": "https://autoventure.live/reviews/bigjpg.html"
+    },
+    {
+      "name": "Canva AI",
+      "slug": "canva-ai",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "Free design platform with AI-powered background removal, magic eraser, and text-to-image.",
+      "website": "https://www.canva.com/",
+      "review_url": "https://autoventure.live/reviews/canva-ai.html"
+    },
+    {
+      "name": "Dreamina",
+      "slug": "dreamina",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "CapCut&#x27;s AI creative platform for generating and editing images, videos, avatars, and marketing visuals from text or reference images, with inpainting, style transfer, and upscaling in one workspace;",
+      "website": "https://dreamina.jianying.com",
+      "review_url": "https://autoventure.live/reviews/dreamina.html"
+    },
+    {
+      "name": "EzImgEditor",
+      "slug": "ezimgeditor",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "Browser-based AI image editor that lets you remove objects, change backgrounds, restyle visuals, and generate headshots from text prompts, with a free tier for basic editing.",
+      "website": "https://ezimgeditor.io",
+      "review_url": "https://autoventure.live/reviews/ezimgeditor.html"
+    },
+    {
+      "name": "Ideogram",
+      "slug": "ideogram",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "AI image generator with strong text rendering and editing tools; free tier available via the app with daily prompt limits.",
+      "website": "https://ideogram.ai/",
+      "review_url": "https://autoventure.live/reviews/ideogram.html"
+    },
+    {
+      "name": "Leonardo AI",
+      "slug": "leonardo-ai",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "Free AI art generator with daily credits. Create game assets, illustrations, and more.",
+      "website": "https://leonardo.ai/",
+      "review_url": "https://autoventure.live/reviews/leonardo-ai.html"
+    },
+    {
+      "name": "Let's Enhance",
+      "slug": "let-s-enhance",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "Free AI photo enhancer for upscaling, color correction, and artifact removal.",
+      "website": "https://letsenhance.io/",
+      "review_url": "https://autoventure.live/reviews/let-s-enhance.html"
+    },
+    {
+      "name": "Photopea",
+      "slug": "photopea",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "Free browser-based photo editor with AI-assisted tools. Works like Photoshop, no download needed.",
+      "website": "https://www.photopea.com/",
+      "review_url": "https://autoventure.live/reviews/photopea.html"
+    },
+    {
+      "name": "Pixlr",
+      "slug": "pixlr",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "Free online photo editor with AI-powered filters, retouch, and collage tools.",
+      "website": "https://pixlr.com/",
+      "review_url": "https://autoventure.live/reviews/pixlr.html"
+    },
+    {
+      "name": "Playground AI",
+      "slug": "playground-ai",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "Free daily image generation with powerful editing tools and style controls.",
+      "website": "https://playground.com/",
+      "review_url": "https://autoventure.live/reviews/playground-ai.html"
+    },
+    {
+      "name": "Remini",
+      "slug": "remini",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "Free AI photo enhancer app. Restore old, blurry, or low-quality photos with one tap.",
+      "website": "https://remini.ai/",
+      "review_url": "https://autoventure.live/reviews/remini.html"
+    },
+    {
+      "name": "Stable Diffusion (DreamStudio)",
+      "slug": "stable-diffusion-dreamstudio",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "Open-source image generation with a free tier. Generate detailed AI art and photos.",
+      "website": "https://dreamstudio.ai/",
+      "review_url": "https://autoventure.live/reviews/stable-diffusion-dreamstudio.html"
+    },
+    {
+      "name": "Upscayl",
+      "slug": "upscayl",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "Free open-source AI image upscaler. Enhance resolution and quality locally on your computer.",
+      "website": "https://upscayl.org/",
+      "review_url": "https://autoventure.live/reviews/upscayl.html"
+    },
+    {
+      "name": "CaseText",
+      "slug": "casetext",
+      "category": "Legal",
+      "category_id": "legal-tools",
+      "pricing": "Free",
+      "description": "Free AI legal research with natural language search. Summarize cases instantly.",
+      "website": "https://www.casetext.com/",
+      "review_url": "https://autoventure.live/reviews/casetext.html"
+    },
+    {
+      "name": "ContractPodAI",
+      "slug": "contractpodai",
+      "category": "Legal",
+      "category_id": "legal-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI contract lifecycle management. Auto-generate and track contracts.",
+      "website": "https://contractpod.ai/",
+      "review_url": "https://autoventure.live/reviews/contractpodai.html"
+    },
+    {
+      "name": "Docupace",
+      "slug": "docupace",
+      "category": "Legal",
+      "category_id": "legal-tools",
+      "pricing": "Free",
+      "description": "Free AI legal document automation. Template-based drafting and e-signatures.",
+      "website": "https://docupace.com/",
+      "review_url": "https://autoventure.live/reviews/docupace.html"
+    },
+    {
+      "name": "Elicit",
+      "slug": "elicit",
+      "category": "Legal",
+      "category_id": "legal-tools",
+      "pricing": "Free",
+      "description": "Free AI legal research assistant. Find papers, extract data, and synthesize findings.",
+      "website": "https://elicit.com/",
+      "review_url": "https://autoventure.live/reviews/elicit.html"
+    },
+    {
+      "name": "Exari",
+      "slug": "exari",
+      "category": "Legal",
+      "category_id": "legal-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI contract and document automation. No-code assembly and workflow.",
+      "website": "https://www.exari.com/",
+      "review_url": "https://autoventure.live/reviews/exari.html"
+    },
+    {
+      "name": "Harvey AI",
+      "slug": "harvey-ai",
+      "category": "Legal",
+      "category_id": "legal-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI legal research assistant for law firms. Case analysis and drafting.",
+      "website": "https://harvey.ai/",
+      "review_url": "https://autoventure.live/reviews/harvey-ai.html"
+    },
+    {
+      "name": "HotDocs",
+      "slug": "hotdocs",
+      "category": "Legal",
+      "category_id": "legal-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI document automation for legal forms. Interview-driven assembly.",
+      "website": "https://www.hotdocs.com/",
+      "review_url": "https://autoventure.live/reviews/hotdocs.html"
+    },
+    {
+      "name": "Lawyaw",
+      "slug": "lawyaw",
+      "category": "Legal",
+      "category_id": "legal-tools",
+      "pricing": "Free",
+      "description": "Free AI legal document drafting. Microsoft Word integration for templates.",
+      "website": "https://lawyaw.com/",
+      "review_url": "https://autoventure.live/reviews/lawyaw.html"
+    },
+    {
+      "name": "Lexis+ AI",
+      "slug": "lexis-ai",
+      "category": "Legal",
+      "category_id": "legal-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI legal research with generative answers. Case summaries and citators.",
+      "website": "https://www.lexisnexis.com/",
+      "review_url": "https://autoventure.live/reviews/lexis-ai.html"
+    },
+    {
+      "name": "ROSS Intelligence",
+      "slug": "ross-intelligence",
+      "category": "Legal",
+      "category_id": "legal-tools",
+      "pricing": "Free",
+      "description": "Free AI legal research platform. Natural language search for case law.",
+      "website": "https://rossintelligence.com/",
+      "review_url": "https://autoventure.live/reviews/ross-intelligence.html"
+    },
+    {
+      "name": "AnswerThePublic",
+      "slug": "answerthepublic",
+      "category": "Marketing for Small Business",
+      "category_id": "marketing-tools",
+      "pricing": "Free",
+      "description": "AI-powered content idea generator based on real search queries (3 free searches/day).",
+      "website": "https://answerthepublic.com/",
+      "review_url": "https://autoventure.live/reviews/answerthepublic.html"
+    },
+    {
+      "name": "Brevo (Sendinblue)",
+      "slug": "brevo-sendinblue",
+      "category": "Marketing for Small Business",
+      "category_id": "marketing-tools",
+      "pricing": "Free",
+      "description": "Email marketing with AI send-time optimization on the free tier (300 emails/day).",
+      "website": "https://www.brevo.com/",
+      "review_url": "https://autoventure.live/reviews/brevo-sendinblue.html"
+    },
+    {
+      "name": "Buffer AI",
+      "slug": "buffer-ai",
+      "category": "Marketing for Small Business",
+      "category_id": "marketing-tools",
+      "pricing": "Free",
+      "description": "Social scheduling with AI post suggestions and optimal timing; free plan for 3 channels.",
+      "website": "https://buffer.com/",
+      "review_url": "https://autoventure.live/reviews/buffer-ai.html"
+    },
+    {
+      "name": "HubSpot Free CRM",
+      "slug": "hubspot-free-crm",
+      "category": "Marketing for Small Business",
+      "category_id": "marketing-tools",
+      "pricing": "Free",
+      "description": "CRM with AI-powered email scheduling and basic automation at no cost for up to 1M contacts.",
+      "website": "https://www.hubspot.com/products/crm",
+      "review_url": "https://autoventure.live/reviews/hubspot-free-crm.html"
+    },
+    {
+      "name": "Lumen5",
+      "slug": "lumen5",
+      "category": "Marketing for Small Business",
+      "category_id": "marketing-tools",
+      "pricing": "Free",
+      "description": "Turn blog posts into social videos with AI automation; free tier includes 720p exports.",
+      "website": "https://lumen5.com/",
+      "review_url": "https://autoventure.live/reviews/lumen5.html"
+    },
+    {
+      "name": "Mailchimp Free AI",
+      "slug": "mailchimp-free-ai",
+      "category": "Marketing for Small Business",
+      "category_id": "marketing-tools",
+      "pricing": "Free",
+      "description": "AI-driven subject line and content suggestions on the free plan (500 subscribers).",
+      "website": "https://mailchimp.com/",
+      "review_url": "https://autoventure.live/reviews/mailchimp-free-ai.html"
+    },
+    {
+      "name": "Surfer SEO",
+      "slug": "surfer-seo",
+      "category": "Marketing for Small Business",
+      "category_id": "marketing-tools",
+      "pricing": "Free Trial",
+      "description": "AI-powered SEO content optimizer with a free trial for content grading and keyword research.",
+      "website": "https://surferseo.com/",
+      "review_url": "https://autoventure.live/reviews/surfer-seo.html"
+    },
+    {
+      "name": "Ubersuggest",
+      "slug": "ubersuggest",
+      "category": "Marketing for Small Business",
+      "category_id": "marketing-tools",
+      "pricing": "Free",
+      "description": "Free SEO tool with AI keyword suggestions and basic site audit (3 searches/day).",
+      "website": "https://neilpatel.com/ubersuggest/",
+      "review_url": "https://autoventure.live/reviews/ubersuggest.html"
+    },
+    {
+      "name": "Cal.com",
+      "slug": "cal-com",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "Free open-source scheduling infrastructure with AI routing.",
+      "website": "https://cal.com/",
+      "review_url": "https://autoventure.live/reviews/cal-com.html"
+    },
+    {
+      "name": "Calendly AI",
+      "slug": "calendly-ai",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "Free AI scheduling link with automated reminders and routing.",
+      "website": "https://calendly.com/",
+      "review_url": "https://autoventure.live/reviews/calendly-ai.html"
+    },
+    {
+      "name": "Clockwise",
+      "slug": "clockwise",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "Free AI calendar optimizer that frees up focus time.",
+      "website": "https://www.getclockwise.com/",
+      "review_url": "https://autoventure.live/reviews/clockwise.html"
+    },
+    {
+      "name": "Fathom",
+      "slug": "fathom",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "AI meeting notetaker that records and transcribes calls, generates instant summaries, highlights, and searchable transcripts; free forever plan for individuals.",
+      "website": "https://fathom.video/",
+      "review_url": "https://autoventure.live/reviews/fathom.html"
+    },
+    {
+      "name": "Fireflies.ai",
+      "slug": "fireflies-ai",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "AI meeting assistant that joins calls to transcribe, summarize, and search conversations across Zoom, Meet, Teams, and more; free plan with unlimited transcription.",
+      "website": "https://fireflies.ai/",
+      "review_url": "https://autoventure.live/reviews/fireflies-ai.html"
+    },
+    {
+      "name": "Google Meet AI",
+      "slug": "google-meet-ai",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "Free AI video conferencing with live captions and meeting notes.",
+      "website": "https://meet.google.com/",
+      "review_url": "https://autoventure.live/reviews/google-meet-ai.html"
+    },
+    {
+      "name": "Granola",
+      "slug": "granola",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "Records computer audio to generate meeting notes, action items, and summaries without a meeting bot, with a free plan for basic transcription and note enhancement.",
+      "website": "https://granola.ai",
+      "review_url": "https://autoventure.live/reviews/granola.html"
+    },
+    {
+      "name": "Jitsi Meet",
+      "slug": "jitsi-meet",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "Free open-source video conferencing. Self-host or use meet.jit.si.",
+      "website": "https://jitsi.org/",
+      "review_url": "https://autoventure.live/reviews/jitsi-meet.html"
+    },
+    {
+      "name": "Microsoft Teams AI",
+      "slug": "microsoft-teams-ai",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "Free AI meetings with transcription, recap, and intelligent insights.",
+      "website": "https://www.microsoft.com/microsoft-teams/",
+      "review_url": "https://autoventure.live/reviews/microsoft-teams-ai.html"
+    },
+    {
+      "name": "Motion",
+      "slug": "motion",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI calendar and task manager with auto-scheduling.",
+      "website": "https://www.usemotion.com/",
+      "review_url": "https://autoventure.live/reviews/motion.html"
+    },
+    {
+      "name": "Reclaim.ai",
+      "slug": "reclaim-ai",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "Free AI scheduling and habit blocking for Google Calendar.",
+      "website": "https://reclaim.ai/",
+      "review_url": "https://autoventure.live/reviews/reclaim-ai.html"
+    },
+    {
+      "name": "tl;dv",
+      "slug": "tl-dv",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "Free AI meeting recorder and notetaker that transcribes calls, generates summaries, and extracts action items from Zoom, Google Meet, and Teams.",
+      "website": "https://tldv.io",
+      "review_url": "https://autoventure.live/reviews/tl-dv.html"
+    },
+    {
+      "name": "Whereby",
+      "slug": "whereby",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "Free AI-assisted video meetings. No downloads needed.",
+      "website": "https://whereby.com/",
+      "review_url": "https://autoventure.live/reviews/whereby.html"
+    },
+    {
+      "name": "Zoom AI",
+      "slug": "zoom-ai",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "Free AI meeting platform with transcription, summaries, and smart recording.",
+      "website": "https://zoom.us/",
+      "review_url": "https://autoventure.live/reviews/zoom-ai.html"
+    },
+    {
+      "name": "Asana AI",
+      "slug": "asana-ai",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "Workflow automation and smart task suggestions on the free tier (up to 15 teammates).",
+      "website": "https://asana.com/",
+      "review_url": "https://autoventure.live/reviews/asana-ai.html"
+    },
+    {
+      "name": "Kome",
+      "slug": "kome",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "Browser extension that summarizes articles, webpages, and YouTube videos while managing bookmarks and AI-assisted composing, with a free tier of 5 summary credits per month.",
+      "website": "https://www.kome.ai",
+      "review_url": "https://autoventure.live/reviews/kome.html"
+    },
+    {
+      "name": "Linear",
+      "slug": "linear",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "Product development issue tracker with a free tier that includes the Agent platform and AI-powered workflows for teams.",
+      "website": "https://linear.app",
+      "review_url": "https://autoventure.live/reviews/linear.html"
+    },
+    {
+      "name": "Logseq",
+      "slug": "logseq",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "Open-source outliner with AI-assisted linking and querying; fully free and local-first.",
+      "website": "https://logseq.com/",
+      "review_url": "https://autoventure.live/reviews/logseq.html"
+    },
+    {
+      "name": "Make (Integromat)",
+      "slug": "make-integromat",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "Visual automation builder with AI-assisted scenarios; free tier includes 1,000 operations/month.",
+      "website": "https://www.make.com/",
+      "review_url": "https://autoventure.live/reviews/make-integromat.html"
+    },
+    {
+      "name": "Me.bot",
+      "slug": "me-bot",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "Personal AI &#x27;second brain&#x27; that learns from your notes, audio, and data to generate tailored voice presentations and insights; the free tier gives 100 new memories and 100 chat messages per month.",
+      "website": "https://me.bot",
+      "review_url": "https://autoventure.live/reviews/me-bot.html"
+    },
+    {
+      "name": "Mem.ai",
+      "slug": "mem-ai",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "AI-organized notes and auto-tagging with a free starter plan (1 GB storage).",
+      "website": "https://get.mem.ai/",
+      "review_url": "https://autoventure.live/reviews/mem-ai.html"
+    },
+    {
+      "name": "Obsidian AI",
+      "slug": "obsidian-ai",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "Local knowledge base with community AI plugins; core app is free for personal use.",
+      "website": "https://obsidian.md/",
+      "review_url": "https://autoventure.live/reviews/obsidian-ai.html"
+    },
+    {
+      "name": "Peony",
+      "slug": "peony",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "Virtual data room with AI-powered Q&amp;A, auto-indexing, smart search, and e-signatures, with a free starter tier to create rooms.",
+      "website": "https://peony.ink",
+      "review_url": "https://autoventure.live/reviews/peony.html"
+    },
+    {
+      "name": "Rewind.ai",
+      "slug": "rewind-ai",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "Platform aggregating 400+ AI tools and models in one place — chat, image, video, code, transcription — with 5,000 free tokens daily and no credit card required.",
+      "website": "https://www.rewind.ai",
+      "review_url": "https://autoventure.live/reviews/rewind-ai.html"
+    },
+    {
+      "name": "Todoist AI",
+      "slug": "todoist-ai",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "AI-powered task manager with natural language input, smart scheduling, and productivity insights; free tier for up to 5 projects.",
+      "website": "https://todoist.com/",
+      "review_url": "https://autoventure.live/reviews/todoist-ai.html"
+    },
+    {
+      "name": "Voicenotes",
+      "slug": "voicenotes",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "AI note-taking app that records meetings and memos, transcribes them in 60+ languages, and lets you ask questions about past conversations; the free tier includes 100 minutes of transcripts and summar",
+      "website": "https://voicenotes.com",
+      "review_url": "https://autoventure.live/reviews/voicenotes.html"
+    },
+    {
+      "name": "Wery AI",
+      "slug": "wery-ai",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "Free AI agent workspace that routes tasks to specialized experts for research, coding, and document work, with a free tier including 100 monthly credits and single-threaded task execution.",
+      "website": "https://wery.ai/",
+      "review_url": "https://autoventure.live/reviews/wery-ai.html"
+    },
+    {
+      "name": "Wispr Flow",
+      "slug": "wispr-flow",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free Trial",
+      "description": "AI voice dictation tool that turns messy speech into polished text across all apps; free 14-day trial of Flow Pro with no card required.",
+      "website": "https://www.wisprflow.com/",
+      "review_url": "https://autoventure.live/reviews/wispr-flow.html"
+    },
+    {
+      "name": "BoomTown",
+      "slug": "boomtown",
+      "category": "Real Estate",
+      "category_id": "real-estate-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI real estate CRM with lead routing and automated follow-ups.",
+      "website": "https://www.boomtownroi.com/",
+      "review_url": "https://autoventure.live/reviews/boomtown.html"
+    },
+    {
+      "name": "HouseCanary",
+      "slug": "housecanary",
+      "category": "Real Estate",
+      "category_id": "real-estate-tools",
+      "pricing": "Free",
+      "description": "Free AI property valuation and market forecasts. Investment analysis.",
+      "website": "https://www.housecanary.com/",
+      "review_url": "https://autoventure.live/reviews/housecanary.html"
+    },
+    {
+      "name": "IXACT Contact",
+      "slug": "ixact-contact",
+      "category": "Real Estate",
+      "category_id": "real-estate-tools",
+      "pricing": "Free",
+      "description": "Free AI real estate CRM with email marketing and drip campaigns.",
+      "website": "https://www.ixactcontact.com/",
+      "review_url": "https://autoventure.live/reviews/ixact-contact.html"
+    },
+    {
+      "name": "Mashvisor",
+      "slug": "mashvisor",
+      "category": "Real Estate",
+      "category_id": "real-estate-tools",
+      "pricing": "Free",
+      "description": "Free AI real estate investment analyzer. Rental yield and cash flow estimates.",
+      "website": "https://www.mashvisor.com/",
+      "review_url": "https://autoventure.live/reviews/mashvisor.html"
+    },
+    {
+      "name": "Realvolve",
+      "slug": "realvolve",
+      "category": "Real Estate",
+      "category_id": "real-estate-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI real estate CRM with automated marketing and client management.",
+      "website": "https://www.realvolve.com/",
+      "review_url": "https://autoventure.live/reviews/realvolve.html"
+    },
+    {
+      "name": "Redfin Estimate",
+      "slug": "redfin-estimate",
+      "category": "Real Estate",
+      "category_id": "real-estate-tools",
+      "pricing": "Free",
+      "description": "Free AI home value estimator with accuracy metrics and comparable sales.",
+      "website": "https://www.redfin.com/",
+      "review_url": "https://autoventure.live/reviews/redfin-estimate.html"
+    },
+    {
+      "name": "Redtail",
+      "slug": "redtail",
+      "category": "Real Estate",
+      "category_id": "real-estate-tools",
+      "pricing": "Free",
+      "description": "Free AI CRM for real estate agents. Conversation tracking and pipelines.",
+      "website": "https://www.redtailtechnology.com/",
+      "review_url": "https://autoventure.live/reviews/redtail.html"
+    },
+    {
+      "name": "Structurely",
+      "slug": "structurely",
+      "category": "Real Estate",
+      "category_id": "real-estate-tools",
+      "pricing": "Free",
+      "description": "Free AI real estate assistant for lead response and appointment scheduling.",
+      "website": "https://www.structurely.com/",
+      "review_url": "https://autoventure.live/reviews/structurely.html"
+    },
+    {
+      "name": "ValueHunter",
+      "slug": "valuehunter",
+      "category": "Real Estate",
+      "category_id": "real-estate-tools",
+      "pricing": "Free",
+      "description": "Free AI real estate valuation platform. Automated appraisals and comparables.",
+      "website": "https://www.valuehunter.com/",
+      "review_url": "https://autoventure.live/reviews/valuehunter.html"
+    },
+    {
+      "name": "Zillow Zestimate",
+      "slug": "zillow-zestimate",
+      "category": "Real Estate",
+      "category_id": "real-estate-tools",
+      "pricing": "Free",
+      "description": "Free AI property valuation with price history and neighborhood trends.",
+      "website": "https://www.zillow.com/",
+      "review_url": "https://autoventure.live/reviews/zillow-zestimate.html"
+    },
+    {
+      "name": "AISummarizer",
+      "slug": "aisummarizer",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "Free AI tool that summarizes text, PDFs, Word docs, PPTs, and videos using NLP, with a free tier of 30 credits and support for 50+ languages.",
+      "website": "https://aisummarizer.ai",
+      "review_url": "https://autoventure.live/reviews/aisummarizer.html"
+    },
+    {
+      "name": "ASReview",
+      "slug": "asreview",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "Open-source AI tool for screening and labeling literature.",
+      "website": "https://asreview.nl/",
+      "review_url": "https://autoventure.live/reviews/asreview.html"
+    },
+    {
+      "name": "Consensus",
+      "slug": "consensus",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "AI search engine for scientific research with free daily queries.",
+      "website": "https://consensus.app/",
+      "review_url": "https://autoventure.live/reviews/consensus.html"
+    },
+    {
+      "name": "Exa AI",
+      "slug": "exa-ai",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "AI-powered web search API built for agents and developers, offering 20,000 free requests per month with token-efficient, cited results across docs, repos, and the open web.",
+      "website": "https://exa.ai",
+      "review_url": "https://autoventure.live/reviews/exa-ai.html"
+    },
+    {
+      "name": "ExplainPaper",
+      "slug": "explainpaper",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "Upload academic PDFs and highlight confusing sections to get instant, simple AI explanations in plain language, with a free tier for unlimited highlights and follow-up questions.",
+      "website": "https://explainpaper.com",
+      "review_url": "https://autoventure.live/reviews/explainpaper.html"
+    },
+    {
+      "name": "Google NotebookLM",
+      "slug": "google-notebooklm",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "Google&#x27;s AI research assistant that builds source-grounded notebooks from uploaded PDFs, websites, and audio; free tier includes up to 100 notebooks and audio overviews.",
+      "website": "https://notebooklm.google.com/",
+      "review_url": "https://autoventure.live/reviews/google-notebooklm.html"
+    },
+    {
+      "name": "Humata",
+      "slug": "humata",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "Free AI PDF and document assistant that answers questions across uploaded files with cited sources, offering a free tier with up to 60 pages per month.",
+      "website": "https://humata.ai",
+      "review_url": "https://autoventure.live/reviews/humata.html"
+    },
+    {
+      "name": "Litmaps",
+      "slug": "litmaps",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "Interactive literature maps with AI suggestions for related papers.",
+      "website": "https://www.litmaps.com/",
+      "review_url": "https://autoventure.live/reviews/litmaps.html"
+    },
+    {
+      "name": "Rayyan",
+      "slug": "rayyan",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "AI-assisted systematic review screening; free for academic use.",
+      "website": "https://www.rayyan.ai/",
+      "review_url": "https://autoventure.live/reviews/rayyan.html"
+    },
+    {
+      "name": "ResearchRabbit",
+      "slug": "researchrabbit",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "AI-driven paper recommendations and collection tool; free to use.",
+      "website": "https://www.researchrabbit.ai/",
+      "review_url": "https://autoventure.live/reviews/researchrabbit.html"
+    },
+    {
+      "name": "SciSpace",
+      "slug": "scispace",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "AI research agent that chats with PDFs, generates literature reviews, and provides citation-backed answers, with a free tier for basic research tasks.",
+      "website": "https://scispace.com",
+      "review_url": "https://autoventure.live/reviews/scispace.html"
+    },
+    {
+      "name": "Scite.ai",
+      "slug": "scite-ai",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "Smart citations and AI analysis of how papers are cited; free tier.",
+      "website": "https://scite.ai/",
+      "review_url": "https://autoventure.live/reviews/scite-ai.html"
+    },
+    {
+      "name": "Semantic Scholar",
+      "slug": "semantic-scholar",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "AI-powered academic search engine that indexes hundreds of millions of research papers and surfaces citations, trends, and author profiles; completely free to use.",
+      "website": "https://www.semanticscholar.org/",
+      "review_url": "https://autoventure.live/reviews/semantic-scholar.html"
+    },
+    {
+      "name": "Ahrefs Webmaster Tools",
+      "slug": "ahrefs-webmaster-tools",
+      "category": "SEO",
+      "category_id": "seo-tools",
+      "pricing": "Free",
+      "description": "Free AI keyword explorer and rank tracker for site owners. Unlimited site audits.",
+      "website": "https://ahrefs.com/",
+      "review_url": "https://autoventure.live/reviews/ahrefs-webmaster-tools.html"
+    },
+    {
+      "name": "Botify",
+      "slug": "botify",
+      "category": "SEO",
+      "category_id": "seo-tools",
+      "pricing": "Free",
+      "description": "Free AI technical SEO platform for large sites. Crawl analysis and log file insights.",
+      "website": "https://www.botify.com/",
+      "review_url": "https://autoventure.live/reviews/botify.html"
+    },
+    {
+      "name": "DeepCrawl",
+      "slug": "deepcrawl",
+      "category": "SEO",
+      "category_id": "seo-tools",
+      "pricing": "Free",
+      "description": "Free AI website crawler for technical SEO. JavaScript rendering included.",
+      "website": "https://www.deepcrawl.com/",
+      "review_url": "https://autoventure.live/reviews/deepcrawl.html"
+    },
+    {
+      "name": "Frase IO",
+      "slug": "frase-io",
+      "category": "SEO",
+      "category_id": "seo-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI SEO content briefs and optimization. Research, write, and rank faster.",
+      "website": "https://www.frase.io/",
+      "review_url": "https://autoventure.live/reviews/frase-io.html"
+    },
+    {
+      "name": "MarketMuse",
+      "slug": "marketmuse",
+      "category": "SEO",
+      "category_id": "seo-tools",
+      "pricing": "Free",
+      "description": "Free AI content planning and optimization. Content inventory and gap analysis.",
+      "website": "https://www.marketmuse.com/",
+      "review_url": "https://autoventure.live/reviews/marketmuse.html"
+    },
+    {
+      "name": "OnCrawl",
+      "slug": "oncrawl",
+      "category": "SEO",
+      "category_id": "seo-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI technical SEO crawler with data studio integration. SEO health monitoring.",
+      "website": "https://www.oncrawl.com/",
+      "review_url": "https://autoventure.live/reviews/oncrawl.html"
+    },
+    {
+      "name": "Screaming Frog SEO Spider",
+      "slug": "screaming-frog-seo-spider",
+      "category": "SEO",
+      "category_id": "seo-tools",
+      "pricing": "Free",
+      "description": "Free AI-assisted website crawler. Find broken links, analyze titles and meta.",
+      "website": "https://www.screamingfrog.co.uk/seo-spider/",
+      "review_url": "https://autoventure.live/reviews/screaming-frog-seo-spider.html"
+    },
+    {
+      "name": "SE Ranking",
+      "slug": "se-ranking",
+      "category": "SEO",
+      "category_id": "seo-tools",
+      "pricing": "Free",
+      "description": "Free AI keyword rank tracker with 10 keywords. Daily position checks.",
+      "website": "https://seranking.com/",
+      "review_url": "https://autoventure.live/reviews/se-ranking.html"
+    },
+    {
+      "name": "Semrush (Free Trial)",
+      "slug": "semrush-free-trial",
+      "category": "SEO",
+      "category_id": "seo-tools",
+      "pricing": "Free Trial",
+      "description": "AI-powered keyword magic tool and rank tracking. 7-day free trial.",
+      "website": "https://www.semrush.com/",
+      "review_url": "https://autoventure.live/reviews/semrush-free-trial.html"
+    },
+    {
+      "name": "Sitebulb",
+      "slug": "sitebulb",
+      "category": "SEO",
+      "category_id": "seo-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI technical SEO auditor with visualizations and actionable insights.",
+      "website": "https://sitebulb.com/",
+      "review_url": "https://autoventure.live/reviews/sitebulb.html"
+    },
+    {
+      "name": "WriterZen",
+      "slug": "writerzen",
+      "category": "SEO",
+      "category_id": "seo-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI keyword research and content creation platform. Topic clusters included.",
+      "website": "https://writerzen.net/",
+      "review_url": "https://autoventure.live/reviews/writerzen.html"
+    },
+    {
+      "name": "Audiense",
+      "slug": "audiense",
+      "category": "Social Media",
+      "category_id": "social-media-tools",
+      "pricing": "Free",
+      "description": "Free AI audience segmentation and psychographic analysis for Twitter/X and Instagram.",
+      "website": "https://audiense.com/",
+      "review_url": "https://autoventure.live/reviews/audiense.html"
+    },
+    {
+      "name": "Buffer Analyze",
+      "slug": "buffer-analyze",
+      "category": "Social Media",
+      "category_id": "social-media-tools",
+      "pricing": "Free",
+      "description": "Free AI social analytics with engagement tracking and post performance insights.",
+      "website": "https://buffer.com/",
+      "review_url": "https://autoventure.live/reviews/buffer-analyze.html"
+    },
+    {
+      "name": "Hootsuite",
+      "slug": "hootsuite",
+      "category": "Social Media",
+      "category_id": "social-media-tools",
+      "pricing": "Free",
+      "description": "Free AI social media scheduler with streams and basic analytics. 3 social profiles.",
+      "website": "https://www.hootsuite.com/",
+      "review_url": "https://autoventure.live/reviews/hootsuite.html"
+    },
+    {
+      "name": "Iconosquare",
+      "slug": "iconosquare",
+      "category": "Social Media",
+      "category_id": "social-media-tools",
+      "pricing": "Free",
+      "description": "Free AI Instagram and TikTok analytics with best time-to-post recommendations.",
+      "website": "https://iconsquare.com/",
+      "review_url": "https://autoventure.live/reviews/iconosquare.html"
+    },
+    {
+      "name": "Planable",
+      "slug": "planable",
+      "category": "Social Media",
+      "category_id": "social-media-tools",
+      "pricing": "Free",
+      "description": "Free AI social media collaboration and scheduling for teams. Visual content calendar.",
+      "website": "https://planable.io/",
+      "review_url": "https://autoventure.live/reviews/planable.html"
+    },
+    {
+      "name": "Publora",
+      "slug": "publora",
+      "category": "Social Media",
+      "category_id": "social-media-tools",
+      "pricing": "Free",
+      "description": "A publishing API that lets AI agents and developers post to 10 social platforms (Instagram, TikTok, X, LinkedIn, Threads, Bluesky, Mastodon, YouTube, Facebook, Telegram) with one HTTPS call; free Star",
+      "website": "https://publora.com",
+      "review_url": "https://autoventure.live/reviews/publora.html"
+    },
+    {
+      "name": "Social Insider",
+      "slug": "social-insider",
+      "category": "Social Media",
+      "category_id": "social-media-tools",
+      "pricing": "Free",
+      "description": "Free AI social media competitor analysis with benchmark reports and trend tracking.",
+      "website": "https://www.socialinsider.io/",
+      "review_url": "https://autoventure.live/reviews/social-insider.html"
+    },
+    {
+      "name": "SocialBee",
+      "slug": "socialbee",
+      "category": "Social Media",
+      "category_id": "social-media-tools",
+      "pricing": "Free",
+      "description": "Free AI social scheduling with content categories and audience targeting.",
+      "website": "https://www.socialbee.com/",
+      "review_url": "https://autoventure.live/reviews/socialbee.html"
+    },
+    {
+      "name": "Sprout Social (Free Trial)",
+      "slug": "sprout-social-free-trial",
+      "category": "Social Media",
+      "category_id": "social-media-tools",
+      "pricing": "Free Trial",
+      "description": "Free AI social listening and competitor benchmarking. 30-day free trial.",
+      "website": "https://sproutsocial.com/",
+      "review_url": "https://autoventure.live/reviews/sprout-social-free-trial.html"
+    },
+    {
+      "name": "AI Image Translator",
+      "slug": "ai-image-translator",
+      "category": "Translation",
+      "category_id": "translation-tools",
+      "pricing": "Free",
+      "description": "Free online tool that uses AI to extract and translate text from images into 200+ languages without requiring sign-up, supporting batch processing and layout preservation.",
+      "website": "https://aiimagetranslator.io/",
+      "review_url": "https://autoventure.live/reviews/ai-image-translator.html"
+    },
+    {
+      "name": "Crowdin",
+      "slug": "crowdin",
+      "category": "Translation",
+      "category_id": "translation-tools",
+      "pricing": "Free",
+      "description": "Free AI localization for apps and websites. Continuous localization workflow.",
+      "website": "https://crowdin.com/",
+      "review_url": "https://autoventure.live/reviews/crowdin.html"
+    },
+    {
+      "name": "Lokalise AI",
+      "slug": "lokalise-ai",
+      "category": "Translation",
+      "category_id": "translation-tools",
+      "pricing": "Free",
+      "description": "Free AI translation management for mobile apps and games. Auto-translate.",
+      "website": "https://lokalise.com/",
+      "review_url": "https://autoventure.live/reviews/lokalise-ai.html"
+    },
+    {
+      "name": "Phrase",
+      "slug": "phrase",
+      "category": "Translation",
+      "category_id": "translation-tools",
+      "pricing": "Free",
+      "description": "Free AI localization platform with automated translation workflows.",
+      "website": "https://phrase.com/",
+      "review_url": "https://autoventure.live/reviews/phrase.html"
+    },
+    {
+      "name": "Rask AI",
+      "slug": "rask-ai",
+      "category": "Translation",
+      "category_id": "translation-tools",
+      "pricing": "Free",
+      "description": "Free AI video translation with voice cloning in 130+ languages.",
+      "website": "https://rask.ai/",
+      "review_url": "https://autoventure.live/reviews/rask-ai.html"
+    },
+    {
+      "name": "Smartcat",
+      "slug": "smartcat",
+      "category": "Translation",
+      "category_id": "translation-tools",
+      "pricing": "Free",
+      "description": "Free AI localization platform for teams. Manage translations and freelancers.",
+      "website": "https://www.smartcat.com/",
+      "review_url": "https://autoventure.live/reviews/smartcat.html"
+    },
+    {
+      "name": "Transifex",
+      "slug": "transifex",
+      "category": "Translation",
+      "category_id": "translation-tools",
+      "pricing": "Free",
+      "description": "Free AI-powered localization for continuous delivery. GitHub integration.",
+      "website": "https://www.transifex.com/",
+      "review_url": "https://autoventure.live/reviews/transifex.html"
+    },
+    {
+      "name": "Beautiful.ai",
+      "slug": "beautiful-ai",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free Trial",
+      "description": "AI presentation software that auto-designs slides from your content; offers a 14-day free trial of Pro features.",
+      "website": "https://www.beautiful.ai/",
+      "review_url": "https://autoventure.live/reviews/beautiful-ai.html"
+    },
+    {
+      "name": "CapCut",
+      "slug": "capcut",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Free AI-powered video editor with auto-captions, effects, and cloud storage. No watermark.",
+      "website": "https://www.capcut.com/",
+      "review_url": "https://autoventure.live/reviews/capcut.html"
+    },
+    {
+      "name": "Clipchamp",
+      "slug": "clipchamp",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Free browser-based video editor with AI auto-editing, templates, and stock library.",
+      "website": "https://clipchamp.com/",
+      "review_url": "https://autoventure.live/reviews/clipchamp.html"
+    },
+    {
+      "name": "DaVinci Resolve",
+      "slug": "davinci-resolve",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Professional-grade free video editor with AI-powered color correction, Fairlight audio, and Fusion VFX.",
+      "website": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "review_url": "https://autoventure.live/reviews/davinci-resolve.html"
+    },
+    {
+      "name": "Gamma",
+      "slug": "gamma",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "AI tool that generates presentations, documents, and webpages from text prompts; free tier provides 400 AI credits per month with a Made with Gamma watermark.",
+      "website": "https://gamma.app/",
+      "review_url": "https://autoventure.live/reviews/gamma.html"
+    },
+    {
+      "name": "Hailuo AI",
+      "slug": "hailuo-ai",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "MiniMax&#x27;s AI video generator that creates short clips from text prompts, with a free daily credit allowance and no watermark on standard outputs.",
+      "website": "https://hailuoai.video/",
+      "review_url": "https://autoventure.live/reviews/hailuo-ai.html"
+    },
+    {
+      "name": "HeyGen",
+      "slug": "heygen",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "AI video generator for avatar videos, photo-to-video, and dubbing; free tier includes 3 videos per month up to 1 minute.",
+      "website": "https://www.heygen.com/",
+      "review_url": "https://autoventure.live/reviews/heygen.html"
+    },
+    {
+      "name": "InVideo AI",
+      "slug": "invideo-ai",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Free AI video creation platform. Turn text prompts into publishable videos with stock footage.",
+      "website": "https://invideo.io/",
+      "review_url": "https://autoventure.live/reviews/invideo-ai.html"
+    },
+    {
+      "name": "Luma Dream Machine",
+      "slug": "luma-dream-machine",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free Trial",
+      "description": "AI video generation platform (Ray3.2) for text-to-video and image-to-video; free trial credits available to start generating clips.",
+      "website": "https://lumalabs.ai/",
+      "review_url": "https://autoventure.live/reviews/luma-dream-machine.html"
+    },
+    {
+      "name": "Magic Hour",
+      "slug": "magic-hour",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "AI creative platform bundling 100+ free tools for video generation, image creation, face swap, lip sync, and audio, with daily free credits and no credit card needed.",
+      "website": "https://magichour.ai/",
+      "review_url": "https://autoventure.live/reviews/magic-hour.html"
+    },
+    {
+      "name": "Pictory",
+      "slug": "pictory",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Free AI tool to turn long videos into short clips. Auto-generate captions and highlights.",
+      "website": "https://pictory.ai/",
+      "review_url": "https://autoventure.live/reviews/pictory.html"
+    },
+    {
+      "name": "Pika Labs",
+      "slug": "pika-labs",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Free AI video generation from text or images. High-quality short videos with style control.",
+      "website": "https://pika.art/",
+      "review_url": "https://autoventure.live/reviews/pika-labs.html"
+    },
+    {
+      "name": "Runway ML",
+      "slug": "runway-ml",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Free AI video generator with text-to-video and image animation. Create short clips and effects.",
+      "website": "https://runwayml.com/",
+      "review_url": "https://autoventure.live/reviews/runway-ml.html"
+    },
+    {
+      "name": "Seedance 2.1",
+      "slug": "seedance-2-1",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Free AI video generator that creates short clips from text or images using ByteDance&#x27;s Seedance models, with a free daily credit allowance for standard-quality outputs.",
+      "website": "https://seedance21.io/",
+      "review_url": "https://autoventure.live/reviews/seedance-2-1.html"
+    },
+    {
+      "name": "Synthesia",
+      "slug": "synthesia",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Free AI video generator with digital avatars. Create presenter-led videos from text scripts.",
+      "website": "https://www.synthesia.io/",
+      "review_url": "https://autoventure.live/reviews/synthesia.html"
+    },
+    {
+      "name": "DeepL Write",
+      "slug": "deepl-write",
+      "category": "Writing",
+      "category_id": "writing-tools",
+      "pricing": "Free",
+      "description": "AI writing assistant that improves grammar, tone, and clarity across multiple languages, with a free tier for basic text enhancement.",
+      "website": "https://www.deepl.com/write",
+      "review_url": "https://autoventure.live/reviews/deepl-write.html"
+    },
+    {
+      "name": "Hemingway Editor",
+      "slug": "hemingway-editor",
+      "category": "Writing",
+      "category_id": "writing-tools",
+      "pricing": "Free",
+      "description": "Readability-focused editor that highlights complex sentences; free online.",
+      "website": "https://hemingwayapp.com/",
+      "review_url": "https://autoventure.live/reviews/hemingway-editor.html"
+    },
+    {
+      "name": "Jenni AI",
+      "slug": "jenni-ai",
+      "category": "Writing",
+      "category_id": "writing-tools",
+      "pricing": "Free",
+      "description": "AI academic writing assistant that helps researchers write, cite, and read papers with traceable sources, offering a free tier for writing and citations.",
+      "website": "https://jenni.ai",
+      "review_url": "https://autoventure.live/reviews/jenni-ai.html"
+    },
+    {
+      "name": "LanguageTool",
+      "slug": "languagetool",
+      "category": "Writing",
+      "category_id": "writing-tools",
+      "pricing": "Free",
+      "description": "Open-source grammar and style checker supporting 30+ languages.",
+      "website": "https://languagetool.org/",
+      "review_url": "https://autoventure.live/reviews/languagetool.html"
+    },
+    {
+      "name": "ProWritingAid",
+      "slug": "prowritingaid",
+      "category": "Writing",
+      "category_id": "writing-tools",
+      "pricing": "Free",
+      "description": "Style and grammar checker with a free web version.",
+      "website": "https://prowritingaid.com/",
+      "review_url": "https://autoventure.live/reviews/prowritingaid.html"
+    },
+    {
+      "name": "Wordtune",
+      "slug": "wordtune",
+      "category": "Writing",
+      "category_id": "writing-tools",
+      "pricing": "Free",
+      "description": "AI sentence rephraser and tone adjuster with a free plan.",
+      "website": "https://wordtune.com/",
+      "review_url": "https://autoventure.live/reviews/wordtune.html"
+    }
+  ]
+}
