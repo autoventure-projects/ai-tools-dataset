@@ -3,9 +3,19 @@
   "description": "A curated dataset of free and free-trial AI tools across 25 categories, with descriptions, pricing tier, website and review links.",
   "source": "https://autoventure.live",
   "license": "Free to use with attribution — link back to https://autoventure.live",
-  "updated": "2026-06-25",
-  "count": 325,
+  "updated": "2026-06-30",
+  "count": 332,
   "tools": [
+    {
+      "name": "AirMusic",
+      "slug": "airmusic",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Free AI music generator that creates original songs with vocals from text prompts or lyrics, plus tools for AI covers, vocal removal, voice cloning, and AI music video creation.",
+      "website": "https://airmusic.ai/",
+      "review_url": "https://autoventure.live/reviews/airmusic.html"
+    },
     {
       "name": "Audacity",
       "slug": "audacity",
@@ -417,6 +427,16 @@
       "review_url": "https://autoventure.live/reviews/notion-ai.html"
     },
     {
+      "name": "OpenClaw",
+      "slug": "openclaw",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Open-source personal AI assistant that runs locally on your machine, connecting to WhatsApp, Telegram, and other chat apps to autonomously manage email, calendar, and workflows with persistent memory.",
+      "website": "https://openclaw.ai/",
+      "review_url": "https://autoventure.live/reviews/openclaw.html"
+    },
+    {
       "name": "Pipedream",
       "slug": "pipedream",
       "category": "Automation",
@@ -555,6 +575,16 @@
       "description": "AI support bot with a free trial for small teams, powered by advanced language models.",
       "website": "https://www.intercom.com/fin",
       "review_url": "https://autoventure.live/reviews/intercom-fin.html"
+    },
+    {
+      "name": "Kimi",
+      "slug": "kimi",
+      "category": "Chatbot",
+      "category_id": "chatbot-tools",
+      "pricing": "Free",
+      "description": "Free AI assistant by Moonshot AI featuring a 2M+ token context window for long-document analysis, deep research, web browsing, and multi-modal input — no credit card required.",
+      "website": "https://kimi.moonshot.cn/",
+      "review_url": "https://autoventure.live/reviews/kimi.html"
     },
     {
       "name": "Landbot",
@@ -755,6 +785,16 @@
       "description": "AI code assistant with a free Basic tier that provides short code completions and basic AI chat across major IDEs and editors.",
       "website": "https://www.tabnine.com",
       "review_url": "https://autoventure.live/reviews/tabnine.html"
+    },
+    {
+      "name": "Trae (formerly MarsCode)",
+      "slug": "trae-formerly-marscode",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Free AI-powered IDE from ByteDance with built-in code completion, generation, explanation, debugging, and one-click cloud deployment across 200+ programming languages.",
+      "website": "https://www.trae.ai/",
+      "review_url": "https://autoventure.live/reviews/trae-formerly-marscode.html"
     },
     {
       "name": "v0 by Vercel",
@@ -1175,6 +1215,16 @@
       "description": "AI-powered wireframing and prototyping platform that turns screenshots, text prompts, or diagrams into editable UI mockups for non-designers; the free Starter plan offers 300 AI credits per month.",
       "website": "https://visily.ai",
       "review_url": "https://autoventure.live/reviews/visily.html"
+    },
+    {
+      "name": "Zawa AI",
+      "slug": "zawa-ai",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "Free AI brand kit generator that creates logos, posters, social media posts, and product videos from a single brand description, with a locked-in brand memory system for consistent design output.",
+      "website": "https://www.zawa.ai/",
+      "review_url": "https://autoventure.live/reviews/zawa-ai.html"
     },
     {
       "name": "Cin7",
@@ -2537,6 +2587,16 @@
       "review_url": "https://autoventure.live/reviews/wery-ai.html"
     },
     {
+      "name": "whacka",
+      "slug": "whacka",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "Free AI no-code platform that turns plain-language descriptions into real, working apps with built-in backend, database, and hosting — 8 free build credits per day, no card required.",
+      "website": "https://whacka.app/",
+      "review_url": "https://autoventure.live/reviews/whacka.html"
+    },
+    {
       "name": "Wispr Flow",
       "slug": "wispr-flow",
       "category": "Productivity to Boost Workflow",
@@ -3195,6 +3255,16 @@
       "description": "Free AI video generator with digital avatars. Create presenter-led videos from text scripts.",
       "website": "https://www.synthesia.io/",
       "review_url": "https://autoventure.live/reviews/synthesia.html"
+    },
+    {
+      "name": "Vmake",
+      "slug": "vmake",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Free AI UGC video generator that turns product images into viral short-form videos for TikTok, Reels, and Shorts, with 20 daily credits and access to models like Seedance 2.0, Sora 2, and Veo 3.1.",
+      "website": "https://vmake.ai/",
+      "review_url": "https://autoventure.live/reviews/vmake.html"
     },
     {
       "name": "DeepL Write",
