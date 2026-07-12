@@ -3,8 +3,8 @@
   "description": "A curated dataset of free and free-trial AI tools across 25 categories, with descriptions, pricing tier, website and review links.",
   "source": "https://autoventure.live",
   "license": "Free to use with attribution — link back to https://autoventure.live",
-  "updated": "2026-06-30",
-  "count": 332,
+  "updated": "2026-07-11",
+  "count": 337,
   "tools": [
     {
       "name": "AirMusic",
@@ -727,6 +727,16 @@
       "review_url": "https://autoventure.live/reviews/devin.html"
     },
     {
+      "name": "Flatkey AI",
+      "slug": "flatkey-ai",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free Trial",
+      "description": "API gateway that routes traffic to official GPT, Claude, and Gemini models through one key at discounted prices; offers a free trial to start.",
+      "website": "https://flatkey.ai/",
+      "review_url": "https://autoventure.live/reviews/flatkey-ai.html"
+    },
+    {
       "name": "Langfuse",
       "slug": "langfuse",
       "category": "Code",
@@ -1165,6 +1175,16 @@
       "description": "Free AI background remover for design assets. One-click processing.",
       "website": "https://www.remove.bg/",
       "review_url": "https://autoventure.live/reviews/remove-bg.html"
+    },
+    {
+      "name": "RoomFoundry",
+      "slug": "roomfoundry",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free",
+      "description": "AI interior design tool that redesigns real room photos with realistic previews; first preview is free with no credit card required.",
+      "website": "https://www.roomfoundry.com/",
+      "review_url": "https://autoventure.live/reviews/roomfoundry.html"
     },
     {
       "name": "Smart Resize",
@@ -1715,6 +1735,16 @@
       "description": "AI-powered expense categorization, receipt matching, and invoice automation. Free 30-day trial.",
       "website": "https://quickbooks.intuit.com/",
       "review_url": "https://autoventure.live/reviews/quickbooks-ai.html"
+    },
+    {
+      "name": "ReceiptsAI",
+      "slug": "receiptsai",
+      "category": "Finance",
+      "category_id": "finance-tools",
+      "pricing": "Free",
+      "description": "AI receipt scanner and bookkeeping tool that auto-extracts and categorizes expenses from emails and uploads; free tier available with no credit card.",
+      "website": "https://www.receiptsai.com/",
+      "review_url": "https://autoventure.live/reviews/receiptsai.html"
     },
     {
       "name": "Trade Ideas",
@@ -3147,6 +3177,16 @@
       "review_url": "https://autoventure.live/reviews/davinci-resolve.html"
     },
     {
+      "name": "FreeLipSync",
+      "slug": "freelipsync",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Free online AI lip sync generator that turns photos and videos into talking or singing content; no sign-up, no watermark, and no credit card required for basic use.",
+      "website": "https://freelipsync.com/",
+      "review_url": "https://autoventure.live/reviews/freelipsync.html"
+    },
+    {
       "name": "Gamma",
       "slug": "gamma",
       "category": "Video",
@@ -3205,6 +3245,16 @@
       "description": "AI creative platform bundling 100+ free tools for video generation, image creation, face swap, lip sync, and audio, with daily free credits and no credit card needed.",
       "website": "https://magichour.ai/",
       "review_url": "https://autoventure.live/reviews/magic-hour.html"
+    },
+    {
+      "name": "Muse Video AI",
+      "slug": "muse-video-ai",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Meta&#x27;s native-audio text-to-video generator that creates short clips with synchronized sound; new accounts receive free credits to start.",
+      "website": "https://muse-video.ai/",
+      "review_url": "https://autoventure.live/reviews/muse-video-ai.html"
     },
     {
       "name": "Pictory",
