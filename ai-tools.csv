@@ -1,4 +1,5 @@
 name,category,pricing,description,website,review_url,slug
+Adobe Podcast,Audio,Free,AI audio enhancement and transcription. Free tier available.,https://podcast.adobe.com,https://autoventure.live/reviews/adobe-podcast.html,adobe-podcast
 AirMusic,Audio,Free,"Free AI music generator that creates original songs with vocals from text prompts or lyrics, plus tools for AI covers, vocal removal, voice cloning, and AI music video creation.",https://airmusic.ai/,https://autoventure.live/reviews/airmusic.html,airmusic
 Audacity,Audio,Free,Free open-source audio editor with AI-powered noise reduction and effects. Works on all platforms.,https://www.audacityteam.org/,https://autoventure.live/reviews/audacity.html,audacity
 Audo Studio,Audio,Free,"Free AI audio editor for podcasters. Auto-remove noise, filler words, and silence.",https://audo.ai/,https://autoventure.live/reviews/audo-studio.html,audo-studio
@@ -16,6 +17,7 @@ Otter.ai,Audio,Free,Free AI transcription for meetings and interviews. Real-time
 Play.ht,Audio,Free,Free AI voice generator with ultra-realistic voices. Create voiceovers for videos and podcasts.,https://play.ht/,https://autoventure.live/reviews/play-ht.html,play-ht
 Resemble AI,Audio,Free,"A voice AI platform offering text-to-speech, voice cloning, speech-to-speech, and deepfake detection/watermarking; the free tier lets developers start building with voice AI, and the platform also pro",https://resemble.ai,https://autoventure.live/reviews/resemble-ai.html,resemble-ai
 SoundTools,Audio,Free,"Free browser-based audio toolkit with AI voice cloning, speech-to-song, stem splitting, and vocal effects, requiring no account or uploads for basic use.",https://soundtools.io/,https://autoventure.live/reviews/soundtools.html,soundtools
+Speechify,Audio,Free,"AI text-to-speech reader for documents, web pages, and PDFs. Free tier with monthly limits.",https://speechify.com,https://autoventure.live/reviews/speechify.html,speechify
 Suno AI,Audio,Free,AI music generator that creates full songs with vocals and instrumentation from text prompts; free tier gives 10 songs per day with non-commercial rights.,https://suno.ai/,https://autoventure.live/reviews/suno-ai.html,suno-ai
 TTS.ai,Audio,Free,"Free AI voice platform offering 35+ open-source models, 285+ voices, and 55+ languages for text-to-speech, voice cloning, and speech-to-text, with a free tier including 15K characters per month.",https://tts.ai/,https://autoventure.live/reviews/tts-ai.html,tts-ai
 TTSMaker,Audio,Free,Free online text-to-speech with 200+ voices and languages. No signup required for basic use.,https://ttsmaker.com/,https://autoventure.live/reviews/ttsmaker.html,ttsmaker
@@ -23,6 +25,7 @@ Udio,Audio,Free,"AI music generator that produces original songs from text promp
 Veed.io,Audio,Free,Free online auto-subtitler with 98% accuracy. Add captions to videos in one click.,https://www.veed.io/,https://autoventure.live/reviews/veed-io.html,veed-io
 Vocloner,Audio,Free,"Free instant AI voice cloning service with daily character limits, supporting multilingual output and word-level emotion tags for personalized voice generation.",https://vocloner.com/,https://autoventure.live/reviews/vocloner.html,vocloner
 Voicebox,Audio,Free,"Open-source desktop app for local AI voice cloning and text-to-speech across seven engines, running entirely on your machine with no cloud uploads or subscription costs.",https://voicebox.sh/,https://autoventure.live/reviews/voicebox.html,voicebox
+WellSaid,Audio,Free Trial,AI text-to-speech for enterprise. Free trial available.,https://wellsaid.ai,https://autoventure.live/reviews/wellsaid.html,wellsaid
 Whisper (OpenAI),Audio,Free,Free open-source speech recognition model. Transcribe audio locally with high accuracy.,https://github.com/openai/whisper,https://autoventure.live/reviews/whisper-openai.html,whisper-openai
 WhisperAI,Audio,Free Trial,"Transcribes audio and video files up to 1GB into editable, timestamped transcripts with speaker identification, offered as a free trial.",https://whisperai.com,https://autoventure.live/reviews/whisperai.html,whisperai
 Activepieces,Automation,Free,"Free open-source Zapier alternative. Self-hostable, AI-assisted workflow builder.",https://www.activepieces.com/,https://autoventure.live/reviews/activepieces.html,activepieces
@@ -33,24 +36,44 @@ Allyhub,Automation,Free Trial,"AI agent platform that executes browsing, researc
 Browse.sh,Automation,Free,"An open-source browser CLI and skill catalog built by Browserbase that gives AI agents structured web-automation primitives (click, scroll, type, screenshot) and a community-driven skill library for s",https://browse.sh,https://autoventure.live/reviews/browse-sh.html,browse-sh
 Bubble,Automation,Free,Free AI-assisted no-code app builder. Automate workflows and build full apps.,https://bubble.io/,https://autoventure.live/reviews/bubble.html,bubble
 Buda AI,Automation,Free Trial,"Cloud-native workspace for building, running, and coordinating specialized AI agents, with a free trial available.",https://buda.ai,https://autoventure.live/reviews/buda-ai.html,buda-ai
+Camunda,Automation,Free,Workflow automation and orchestration platform. Free community edition.,https://camunda.com,https://autoventure.live/reviews/camunda.html,camunda
 Coda AI,Automation,Free,Free AI document-database hybrid with formulas and automations.,https://coda.io/,https://autoventure.live/reviews/coda-ai.html,coda-ai
 Composio,Automation,Free,"Connects AI agents to 1,000+ apps with secure auth and tool execution, offering a free developer tier with 20K tool calls per month.",https://www.composio.dev/,https://autoventure.live/reviews/composio.html,composio
 CrewAI,Automation,Free,"Open-source platform for building, deploying, and managing multi-agent workflows with a visual editor and CLI; free Basic plan includes 50 workflow executions per month.",https://www.crewai.com/,https://autoventure.live/reviews/crewai.html,crewai
+Datadog,Automation,Free Trial,AI monitoring and automation for cloud infrastructure. Free trial available.,https://datadoghq.com,https://autoventure.live/reviews/datadog.html,datadog
+Dynatrace,Automation,Free Trial,AI automation for cloud operations and monitoring. Free trial available.,https://dynatrace.com,https://autoventure.live/reviews/dynatrace.html,dynatrace
+Elastic,Automation,Free,AI-powered search and observability platform. Free tier available.,https://elastic.co,https://autoventure.live/reviews/elastic.html,elastic
 Glide,Automation,Free,Free AI app builder from spreadsheets. Publish web and mobile apps instantly.,https://www.glideapps.com/,https://autoventure.live/reviews/glide.html,glide
+Grafana,Automation,Free,Open-source observability and alerting platform. Free tier available.,https://grafana.com,https://autoventure.live/reviews/grafana.html,grafana
+Hugging Face Spaces,Automation,Free,Host and share ML demos for free. GPU/CPU tiers available.,https://huggingface.co/spaces,https://autoventure.live/reviews/hugging-face-spaces.html,hugging-face-spaces
+IFTTT,Automation,Free,If-This-Then-That automation for apps and devices. Free plan available.,https://ifttt.com,https://autoventure.live/reviews/ifttt.html,ifttt
 Kissflow,Automation,Free,Free AI workflow automation for business processes. No-code app builder.,https://kissflow.com/,https://autoventure.live/reviews/kissflow.html,kissflow
 Klavis AI,Automation,Free,"YC-backed platform that provides live sandboxed environments for training and evaluating AI agents, with managed MCP servers and a free tier for basic usage.",https://www.klavis.ai/,https://autoventure.live/reviews/klavis-ai.html,klavis-ai
+Make,Automation,Free,Visual automation platform with AI integrations. Free plan available.,https://make.com,https://autoventure.live/reviews/make.html,make
+Manus,Automation,Free,Autonomous AI agent platform that completes multi-step tasks across apps and websites. Free tier for personal use.,https://manus.im,https://autoventure.live/reviews/manus.html,manus
+MuleSoft,Automation,Free Trial,Integration platform for APIs and workflows. Free trial available.,https://mulesoft.com,https://autoventure.live/reviews/mulesoft.html,mulesoft
 n8n,Automation,Free,Free open-source workflow automation. Self-host or use cloud. AI nodes included.,https://n8n.io/,https://autoventure.live/reviews/n8n.html,n8n
+New Relic,Automation,Free,AI-powered observability and automation platform. Free tier available.,https://newrelic.com,https://autoventure.live/reviews/new-relic.html,new-relic
 Notion AI,Automation,Free,Free AI-assisted databases and automation. 5 MB uploads on free tier.,https://www.notion.so/,https://autoventure.live/reviews/notion-ai.html,notion-ai
 OpenClaw,Automation,Free,"Open-source personal AI assistant that runs locally on your machine, connecting to WhatsApp, Telegram, and other chat apps to autonomously manage email, calendar, and workflows with persistent memory.",https://openclaw.ai/,https://autoventure.live/reviews/openclaw.html,openclaw
+PagerDuty,Automation,Free,AI-powered incident response and automation platform. Free plan available.,https://pagerduty.com,https://autoventure.live/reviews/pagerduty.html,pagerduty
 Pipedream,Automation,Free,"Free workflow automation for developers. Event-driven, code + no-code.",https://pipedream.com/,https://autoventure.live/reviews/pipedream.html,pipedream
+Power Automate,Automation,Free,Microsoft's automation platform for workflows across apps and services. Free tier available.,https://powerautomate.microsoft.com,https://autoventure.live/reviews/power-automate.html,power-automate
 Process Street,Automation,Free,"Free AI workflow and checklist automation. Integrates with 1,000+ tools.",https://www.process.st/,https://autoventure.live/reviews/process-street.html,process-street
 Softr,Automation,Free,Free AI no-code builder for apps and portals. Connect to Airtable/Notion.,https://www.softr.io/,https://autoventure.live/reviews/softr.html,softr
+Splunk,Automation,Free Trial,AI-powered data platform and automation for IT. Free trial available.,https://splunk.com,https://autoventure.live/reviews/splunk.html,splunk
+Temporal,Automation,Free,Open-source microservices orchestration platform. Free self-hosted.,https://temporal.io,https://autoventure.live/reviews/temporal.html,temporal
+Tray.io,Automation,Free Trial,Visual automation platform for complex workflows. Free trial available.,https://tray.io,https://autoventure.live/reviews/tray-io.html,tray-io
 Webflow,Automation,Free,Free AI website builder with automation. Visual CMS and integrations.,https://webflow.com/,https://autoventure.live/reviews/webflow.html,webflow
+Workato,Automation,Free Trial,Enterprise automation platform with AI integrations. Free trial available.,https://workato.com,https://autoventure.live/reviews/workato.html,workato
 WorkBeaver,Automation,Free,"Agentic automation platform that runs operational workflows invisibly in the background across any website, with a free early-adopter tier that includes up to 25 simple task runs.",https://workbeaver.ai,https://autoventure.live/reviews/workbeaver.html,workbeaver
 WorkClaw,Automation,Free,"A collaborative AI-coworker platform built on OpenClaw where teams deploy custom AI agents that work 24/7 across Slack, email, and 3,000+ apps; new accounts receive $100 in free credits with no credit",https://workclaw.ai,https://autoventure.live/reviews/workclaw.html,workclaw
 Zapier,Automation,Free,"Free AI workflow automation connecting 5,000+ apps. 5 Zaps and 100 tasks/month on free tier.",https://zapier.com/,https://autoventure.live/reviews/zapier.html,zapier
+Zapier AI,Automation,Free Trial,No-code automation platform with AI-powered workflows and natural-language triggers. Free trial available.,https://zapier.com,https://autoventure.live/reviews/zapier-ai.html,zapier-ai
 Botpress,Chatbot,Free,Open-source AI chatbot platform with a free cloud tier and on-premise deployment option.,https://botpress.com/,https://autoventure.live/reviews/botpress.html,botpress
+Chatbase,Chatbot,Free,AI chatbot builder for websites. Free plan available.,https://chatbase.co,https://autoventure.live/reviews/chatbase.html,chatbase
 Chatfuel,Chatbot,Free,No-code chatbot builder for Instagram and Facebook with a free plan for basic bots.,https://chatfuel.com/,https://autoventure.live/reviews/chatfuel.html,chatfuel
+Cohere,Chatbot,Free,AI language model API for chatbots. Free tier available.,https://cohere.com,https://autoventure.live/reviews/cohere.html,cohere
 DeepSeek,Chatbot,Free,General-purpose AI chat and coding assistant with free web/app access and an open API platform for developers.,https://www.deepseek.com/,https://autoventure.live/reviews/deepseek.html,deepseek
 Flow XO,Chatbot,Free,"Multi-platform chatbot builder with free bots and integrations for web, Slack, and social.",https://flowxo.com/,https://autoventure.live/reviews/flow-xo.html,flow-xo
 Freshdesk Fred AI,Chatbot,Free,AI chatbot and automation for support teams; free plan available for up to 10 agents.,https://www.freshworks.com/freshdesk/,https://autoventure.live/reviews/freshdesk-fred-ai.html,freshdesk-fred-ai
@@ -59,29 +82,38 @@ Intercom Fin,Chatbot,Free Trial,"AI support bot with a free trial for small team
 Kimi,Chatbot,Free,"Free AI assistant by Moonshot AI featuring a 2M+ token context window for long-document analysis, deep research, web browsing, and multi-modal input — no credit card required.",https://kimi.moonshot.cn/,https://autoventure.live/reviews/kimi.html,kimi
 Landbot,Chatbot,Free,Visual chatbot builder with a free plan for conversational workflows and WhatsApp integration.,https://landbot.io/,https://autoventure.live/reviews/landbot.html,landbot
 ManyChat,Chatbot,Free,"AI chatbot for Instagram, Facebook, and SMS with a free starter tier for up to 1,000 contacts.",https://manychat.com/,https://autoventure.live/reviews/manychat.html,manychat
+Mistral Le Chat,Chatbot,Free,Free AI chatbot by Mistral AI. Multi-modal with file upload support.,https://chat.mistral.ai,https://autoventure.live/reviews/mistral-le-chat.html,mistral-le-chat
 MobileMonkey,Chatbot,Free,"AI chatbot for Facebook Messenger, Instagram, and SMS with a free tier for lead gen.",https://customers.ai/,https://autoventure.live/reviews/mobilemonkey.html,mobilemonkey
 Tars,Chatbot,Free Trial,AI chatbot for landing pages and lead capture with a free trial for new users.,https://hellotars.com/,https://autoventure.live/reviews/tars.html,tars
 Tidio,Chatbot,Free,Free AI chatbot for small business. Live chat + chatbot combo with a free plan for up to 100 unique visitors/month.,https://www.tidio.com/,https://autoventure.live/reviews/tidio.html,tidio
+Writer,Chatbot,Free Trial,Enterprise AI writing and chatbot platform. Free trial available.,https://writer.com,https://autoventure.live/reviews/writer.html,writer
 Zendesk AI,Chatbot,Free Trial,AI-powered answer bot and ticket routing with a free trial for small support teams.,https://www.zendesk.com/service/ai/,https://autoventure.live/reviews/zendesk-ai.html,zendesk-ai
 Aider,Code,Free,"Open-source terminal-based AI pair programmer that edits code across 100+ languages with full git integration, free to use.",https://aider.chat,https://autoventure.live/reviews/aider.html,aider
 Amazon Q Developer,Code,Free,"Free AI coding assistant for VS Code, JetBrains, and CLI with code completion, chat, and agentic refactoring; free tier includes monthly limits.",https://aws.amazon.com/q/developer/,https://autoventure.live/reviews/amazon-q-developer.html,amazon-q-developer
 Blackbox AI,Code,Free,"AI coding agent and platform that refactors code, generates tests, and reviews pull requests across 35+ IDEs, with a free tier for chat and basic agent use.",https://blackbox.ai,https://autoventure.live/reviews/blackbox-ai.html,blackbox-ai
 Bolt.new,Code,Free,In-browser AI app builder that generates full-stack websites and apps from prompts; free tier includes 300K daily tokens and hosting.,https://bolt.new/,https://autoventure.live/reviews/bolt-new.html,bolt-new
+Claude Artifacts,Code,Free,AI-powered coding assistant with real-time collaboration and code generation. Free tier available.,https://claude.ai,https://autoventure.live/reviews/claude-artifacts.html,claude-artifacts
+Claude Code,Code,Free,"Anthropic's AI coding agent that edits, debugs, and ships code in your repo. Free tier available.",https://claude.ai/claude-code,https://autoventure.live/reviews/claude-code.html,claude-code
 Codeium,Code,Free,Free AI code completion and chat. Supports 70+ languages with fast suggestions.,https://codeium.com/,https://autoventure.live/reviews/codeium.html,codeium
 CodeRabbit,Code,Free,"AI code-review assistant that provides line-by-line feedback, bug detection, and auto-fixes for pull requests directly in GitHub/GitLab, IDEs, and CLI; the free plan includes PR summarization and unli",https://coderabbit.ai,https://autoventure.live/reviews/coderabbit.html,coderabbit
+Codium AI,Code,Free,AI code review and test generation. Free tier available.,https://codium.ai,https://autoventure.live/reviews/codium-ai.html,codium-ai
 Cursor,Code,Free,"AI-powered code editor and agent that completes code, reviews PRs, and runs tasks in the IDE; free Hobby plan includes limited completions and agent requests with no credit card.",https://www.cursor.com/,https://autoventure.live/reviews/cursor.html,cursor
 Devin,Code,Free,"AI software engineer that autonomously writes code, creates pull requests, and handles full development tasks; free tier includes light agent quota, unlimited inline edits, and unlimited tab completio",https://devin.ai/pricing,https://autoventure.live/reviews/devin.html,devin
 Flatkey AI,Code,Free Trial,"API gateway that routes traffic to official GPT, Claude, and Gemini models through one key at discounted prices; offers a free trial to start.",https://flatkey.ai/,https://autoventure.live/reviews/flatkey-ai.html,flatkey-ai
+GitHub Copilot,Code,Free,AI pair programmer inside your IDE. Free tier for students and open source.,https://github.com/features/copilot,https://autoventure.live/reviews/github-copilot.html,github-copilot
+Groq,Code,Free,Ultra-fast LLM inference API. Free tier with rate limits for developers.,https://groq.com,https://autoventure.live/reviews/groq.html,groq
 Langfuse,Code,Free,"Open-source LLM observability and prompt management platform for tracing, evaluating, and improving AI applications, with a free tier.",https://langfuse.com,https://autoventure.live/reviews/langfuse.html,langfuse
 Letta,Code,Free,"Open-source agent framework and research lab offering stateful, self-improving AI agents with git-based memory; free tier includes up to three managed agents and BYOK support.",https://www.letta.com/,https://autoventure.live/reviews/letta.html,letta
 LM Studio,Code,Free,"Desktop application to run local LLMs privately on your own hardware, free for home and work use with no subscription required.",https://lmstudio.ai,https://autoventure.live/reviews/lm-studio.html,lm-studio
 Lovable,Code,Free,AI app builder for creating and shipping web apps by chatting with AI; free tier available with public projects and basic hosting.,https://lovable.dev/,https://autoventure.live/reviews/lovable.html,lovable
+Replit,Code,Free,AI-powered online IDE with agentic coding. Free tier for individual use.,https://replit.com,https://autoventure.live/reviews/replit.html,replit
 Superagent,Code,Free,"An open-source AI security platform backed by Y Combinator that continuously finds and patches vulnerabilities in code and AI agents, shipping every fix as a pull request; free for public GitHub repos",https://superagent.sh,https://autoventure.live/reviews/superagent.html,superagent
 Tabnine,Code,Free,AI code assistant with a free Basic tier that provides short code completions and basic AI chat across major IDEs and editors.,https://www.tabnine.com,https://autoventure.live/reviews/tabnine.html,tabnine
 Trae (formerly MarsCode),Code,Free,"Free AI-powered IDE from ByteDance with built-in code completion, generation, explanation, debugging, and one-click cloud deployment across 200+ programming languages.",https://www.trae.ai/,https://autoventure.live/reviews/trae-formerly-marscode.html,trae-formerly-marscode
 v0 by Vercel,Code,Free,"Free AI frontend generator that turns text prompts into working React/Tailwind components and full-stack apps, with free monthly credits and one-click Vercel deployment.",https://v0.dev,https://autoventure.live/reviews/v0-by-vercel.html,v0-by-vercel
 Chatwoot,Customer Service,Free,Free open-source live chat and helpdesk. Self-host or use cloud.,https://www.chatwoot.com/,https://autoventure.live/reviews/chatwoot.html,chatwoot
 Crisp,Customer Service,Free,Free AI chatbot and live chat for websites. Mobile app included.,https://crisp.chat/,https://autoventure.live/reviews/crisp.html,crisp
+Freshdesk,Customer Service,Free,AI-powered helpdesk with auto-suggestions. Free plan for small teams.,https://freshdesk.com,https://autoventure.live/reviews/freshdesk.html,freshdesk
 Gorgias,Customer Service,Free Trial,"Free AI helpdesk for ecommerce. Unified inbox for email, chat, and social.",https://www.gorgias.com/,https://autoventure.live/reviews/gorgias.html,gorgias
 Help Scout,Customer Service,Free,"Free AI helpdesk for small teams. Shared inbox, docs, and automated workflows.",https://www.helpscout.com/,https://autoventure.live/reviews/help-scout.html,help-scout
 HubSpot Service Hub,Customer Service,Free,"Free AI customer service with ticketing, live chat, and knowledge base.",https://www.hubspot.com/products/service,https://autoventure.live/reviews/hubspot-service-hub.html,hubspot-service-hub
@@ -91,7 +123,10 @@ LiveChat,Customer Service,Free Trial,Free AI live chat with chatbot and ticketin
 MonkeyLearn,Customer Service,Free,Free AI text analysis for support tickets. Classify and route tickets automatically.,https://monkeylearn.com/,https://autoventure.live/reviews/monkeylearn.html,monkeylearn
 Salesforce Service Cloud,Customer Service,Free Trial,Free AI case routing and auto-responses. Einstein AI included.,https://www.salesforce.com/service/,https://autoventure.live/reviews/salesforce-service-cloud.html,salesforce-service-cloud
 Tawk.to,Customer Service,Free,Free AI live chat and helpdesk. Unlimited agents with AI-powered responses.,https://www.tawk.to/,https://autoventure.live/reviews/tawk-to.html,tawk-to
+Zoho Desk,Customer Service,Free,AI helpdesk with auto-ticket routing. Free plan available.,https://zoho.com/desk,https://autoventure.live/reviews/zoho-desk.html,zoho-desk
 Zoho Desk AI,Customer Service,Free,Free AI helpdesk with sentiment analysis and auto-ticket tagging.,https://www.zoho.com/desk/,https://autoventure.live/reviews/zoho-desk-ai.html,zoho-desk-ai
+Akkio,Data,Free,AI data analysis and prediction platform. Free tier available.,https://akkio.com,https://autoventure.live/reviews/akkio.html,akkio
+Dataset,Data,Free,AI data labeling and management platform. Free tier available.,https://dataset.ai,https://autoventure.live/reviews/dataset.html,dataset
 Datawrapper,Data,Free,Simple chart and map builder with AI-assisted design suggestions.,https://www.datawrapper.de/,https://autoventure.live/reviews/datawrapper.html,datawrapper
 Deepnote,Data,Free,"Collaborative data science notebook with built-in AI for analytics, data apps, and ETL pipelines, offering a free tier.",https://deepnote.com,https://autoventure.live/reviews/deepnote.html,deepnote
 Flourish,Data,Free,Template-based visualization tool with free public publishing.,https://flourish.studio/,https://autoventure.live/reviews/flourish.html,flourish
@@ -100,9 +135,11 @@ Hugging Face Datasets,Data,Free,Open-source library and community for dataset pr
 Label Studio,Data,Free,Open-source data labeling platform with AI-assisted pre-labeling.,https://labelstud.io/,https://autoventure.live/reviews/label-studio.html,label-studio
 New Relic AI,Data,Free,"AI-powered observability assistant that lets developers and DevOps teams query telemetry data, debug errors, and monitor system health using plain English; free tier includes 100 GB/month data ingest.",https://newrelic.com/pricing,https://autoventure.live/reviews/new-relic-ai.html,new-relic-ai
 Observable,Data,Free,Interactive data visualization notebooks with AI helpers for quick charting.,https://observablehq.com/,https://autoventure.live/reviews/observable.html,observable
+Pandas AI,Data,Free,AI-powered data analysis library for Python. Open source.,https://pandas-ai.com,https://autoventure.live/reviews/pandas-ai.html,pandas-ai
 Prodigy,Data,Free Trial,AI-powered annotation tool with a free trial for small projects.,https://prodi.gy/,https://autoventure.live/reviews/prodigy.html,prodigy
 Tableau Public,Data,Free,Free data visualization platform with AI-assisted chart recommendations.,https://public.tableau.com/,https://autoventure.live/reviews/tableau-public.html,tableau-public
 Adobe Firefly,Design,Free,Free AI image generation integrated with Creative Cloud. Text-to-image and text effects.,https://www.adobe.com/products/firefly.html,https://autoventure.live/reviews/adobe-firefly.html,adobe-firefly
+Canva AI,Design,Free,"Built-in AI design tools inside Canva: Magic Write, Magic Media, background remover. Free tier with monthly AI limits.",https://www.canva.com/,https://autoventure.live/reviews/canva-ai.html,canva-ai
 Designs.ai,Design,Free,"Free AI design suite for logos, videos, and banners. Generous free credits.",https://designs.ai/,https://autoventure.live/reviews/designs-ai.html,designs-ai
 Figma,Design,Free,"Collaborative design tool with AI features for wireframing, prototyping, and UI design, offering a free Starter plan with 150 AI credits per day.",https://www.figma.com,https://autoventure.live/reviews/figma.html,figma
 Fontjoy,Design,Free,Free AI font pairing tool. Generate harmonious font combinations instantly.,https://fontjoy.com/,https://autoventure.live/reviews/fontjoy.html,fontjoy
@@ -128,12 +165,15 @@ Competera,Ecommerce,Free Trial,Free AI dynamic pricing platform. Price monitorin
 Copy Shark,Ecommerce,Free,Free AI product description writer. Ecommerce-specific templates and bulk mode.,https://copyshark.ai/,https://autoventure.live/reviews/copy-shark.html,copy-shark
 Copy.ai,Ecommerce,Free,"Free AI product description generator. Templates for Amazon, Shopify, and ecommerce.",https://www.copy.ai/,https://autoventure.live/reviews/copy-ai.html,copy-ai
 EcomDash,Ecommerce,Free,Free AI inventory management with reorder points and supplier tracking.,https://www.ecomdash.com/,https://autoventure.live/reviews/ecomdash.html,ecomdash
+Hotjar,Ecommerce,Free,AI-powered user behavior analytics. Free plan available.,https://hotjar.com,https://autoventure.live/reviews/hotjar.html,hotjar
 Jasper AI,Ecommerce,Free Trial,"Free trial AI product copywriter. Templates for Amazon, Shopify, and SEO.",https://www.jasper.ai/,https://autoventure.live/reviews/jasper-ai.html,jasper-ai
+Linnworks,Ecommerce,Free Trial,AI ecommerce order and inventory management. Free trial available.,https://linnworks.com,https://autoventure.live/reviews/linnworks.html,linnworks
 Mango,Ecommerce,Free,Free AI profit optimization for ecommerce. Smart pricing and inventory alerts.,https://mango.com/,https://autoventure.live/reviews/mango.html,mango
 Omnia Retail,Ecommerce,Free Trial,Free AI pricing and retail management. Market intelligence and margin analysis.,https://www.omniaretail.com/,https://autoventure.live/reviews/omnia-retail.html,omnia-retail
 Orderhive,Ecommerce,Free,"Free AI inventory and shipping management. Amazon, Shopify, and eBay sync.",https://www.orderhive.com/,https://autoventure.live/reviews/orderhive.html,orderhive
 PriceShape,Ecommerce,Free,Free AI pricing optimization with margin protection. Auto-repricing included.,https://priceshape.com/,https://autoventure.live/reviews/priceshape.html,priceshape
 Simplified,Ecommerce,Free,Free AI product description generator with design and scheduling built in.,https://simplified.com/,https://autoventure.live/reviews/simplified.html,simplified
+Smartlook,Ecommerce,Free,AI session recording and analytics. Free plan available.,https://smartlook.com,https://autoventure.live/reviews/smartlook.html,smartlook
 TradeGecko,Ecommerce,Free,Free AI inventory and order management. Multi-channel sync and analytics.,https://www.tradegecko.com/,https://autoventure.live/reviews/tradegecko.html,tradegecko
 Wiser,Ecommerce,Free,Free AI pricing intelligence for retailers. Competitor price tracking.,https://www.wiser.com/,https://autoventure.live/reviews/wiser.html,wiser
 Zoho Inventory AI,Ecommerce,Free,Free AI inventory management with demand forecasting and order routing.,https://www.zoho.com/inventory/,https://autoventure.live/reviews/zoho-inventory-ai.html,zoho-inventory-ai
@@ -152,9 +192,12 @@ Quizlet AI,Education,Free,"Free AI-powered flashcards, practice tests, and study
 Socratic by Google,Education,Free,"Free AI homework helper powered by Google AI. Scan questions, get explanations across subjects.",https://socratic.org/,https://autoventure.live/reviews/socratic-by-google.html,socratic-by-google
 Symbolab,Education,Free,"Free AI math problem solver with step-by-step explanations for algebra, calculus, and more.",https://www.symbolab.com/,https://autoventure.live/reviews/symbolab.html,symbolab
 Boomerang,Email,Free,Free AI email scheduler and follow-up reminders for Gmail. Inbox pause included.,https://www.boomerangapp.com/,https://autoventure.live/reviews/boomerang.html,boomerang
+Brevo,Email,Free,AI email marketing and CRM platform. Free plan available.,https://brevo.com,https://autoventure.live/reviews/brevo.html,brevo
 Hunter,Email,Free,Free AI email finder and verifier. Find decision-maker emails and check deliverability.,https://hunter.io/,https://autoventure.live/reviews/hunter.html,hunter
+Lavender,Email,Free,AI email coaching and writing assistant. Free plan available.,https://lavender.ai,https://autoventure.live/reviews/lavender.html,lavender
 Lemlist,Email,Free,Free AI cold email tool with personalized images and dynamic landing pages.,https://www.lemlist.com/,https://autoventure.live/reviews/lemlist.html,lemlist
 Mailbird,Email,Free,"Free AI email client with unified inbox, scheduling, and built-in apps.",https://www.getmailbird.com/,https://autoventure.live/reviews/mailbird.html,mailbird
+Mailchimp AI,Email,Free,AI-powered email marketing and automation. Free tier available.,https://mailchimp.com,https://autoventure.live/reviews/mailchimp-ai.html,mailchimp-ai
 Mailshake,Email,Free,Free AI cold email outreach with personalization and follow-up automation. 5 emails/day free.,https://mailshake.com/,https://autoventure.live/reviews/mailshake.html,mailshake
 Mailspring,Email,Free,Free open-source email client with AI-powered unified inbox and read receipts.,https://getmailspring.com/,https://autoventure.live/reviews/mailspring.html,mailspring
 Mixmax,Email,Free,"Free AI email scheduling and tracking for Gmail. Templates, polls, and surveys.",https://mixmax.com/,https://autoventure.live/reviews/mixmax.html,mixmax
@@ -173,6 +216,7 @@ Personal Capital,Finance,Free,"Free AI financial dashboard for net worth trackin
 PocketSmith,Finance,Free,AI calendar-based budgeting with cash flow forecasting. Free tier for up to 2 accounts.,https://www.pocketsmith.com/,https://autoventure.live/reviews/pocketsmith.html,pocketsmith
 QuickBooks AI,Finance,Free Trial,"AI-powered expense categorization, receipt matching, and invoice automation. Free 30-day trial.",https://quickbooks.intuit.com/,https://autoventure.live/reviews/quickbooks-ai.html,quickbooks-ai
 ReceiptsAI,Finance,Free,AI receipt scanner and bookkeeping tool that auto-extracts and categorizes expenses from emails and uploads; free tier available with no credit card.,https://www.receiptsai.com/,https://autoventure.live/reviews/receiptsai.html,receiptsai
+Stripe Atlas,Finance,Free Trial,AI-assisted company incorporation and banking. Paid service with free tools.,https://stripe.com/atlas,https://autoventure.live/reviews/stripe-atlas.html,stripe-atlas
 Trade Ideas,Finance,Free,AI stock scanner with real-time alerts and backtesting. Free basic version available.,https://www.trade-ideas.com/,https://autoventure.live/reviews/trade-ideas.html,trade-ideas
 TradingView (Free),Finance,Free,AI-powered charting and stock screening with community insights. Free tier with powerful tools.,https://www.tradingview.com/,https://autoventure.live/reviews/tradingview-free.html,tradingview-free
 Wave Accounting,Finance,Free,"Free AI accounting software with invoicing, receipt scanning, and bank reconciliation.",https://waveapps.com/,https://autoventure.live/reviews/wave-accounting.html,wave-accounting
@@ -180,10 +224,12 @@ Wealthfront,Finance,Free,Free automated investing with AI-driven portfolio manag
 Xero (Free Trial),Finance,Free Trial,AI-assisted small business accounting with bank feeds and automated reports. Free 30-day trial.,https://www.xero.com/,https://autoventure.live/reviews/xero-free-trial.html,xero-free-trial
 Ada Health,Health,Free,Free AI health assessment chatbot. Symptom checker and health insights.,https://ada.com/,https://autoventure.live/reviews/ada-health.html,ada-health
 Babylon Health,Health,Free,Free AI health check and symptom analysis. Book appointments with GPs.,https://www.babylonhealth.com/,https://autoventure.live/reviews/babylon-health.html,babylon-health
+Cerebro,Health,Free Trial,AI health monitoring and analytics. Free trial available.,https://cerebrohq.com,https://autoventure.live/reviews/cerebro.html,cerebro
 Fitbod,Health,Free,Free AI workout generator. Personalized routines based on your equipment and goals.,https://www.fitbod.me/,https://autoventure.live/reviews/fitbod.html,fitbod
 Freeletics,Health,Free,Free AI personal trainer with bodyweight workouts. Adaptive training plans.,https://www.freeletics.com/,https://autoventure.live/reviews/freeletics.html,freeletics
 Headspace AI,Health,Free Trial,Free AI meditation and mindfulness. Personalized sessions based on your mood.,https://www.headspace.com/,https://autoventure.live/reviews/headspace-ai.html,headspace-ai
 Levels,Health,Free,Free AI metabolic health tracking. CGM insights and nutrition scores.,https://www.levels.com/,https://autoventure.live/reviews/levels.html,levels
+MetLife,Health,Free,AI health and wellness benefits platform.,https://metlife.com,https://autoventure.live/reviews/metlife.html,metlife
 MyFitnessPal AI,Health,Free,Free AI nutrition tracker with barcode scanning and calorie insights.,https://www.myfitnesspal.com/,https://autoventure.live/reviews/myfitnesspal-ai.html,myfitnesspal-ai
 Nike Training Club AI,Health,Free,Free AI workout plans and nutrition guidance. Expert-designed programs.,https://www.nike.com/ntc-app/,https://autoventure.live/reviews/nike-training-club-ai.html,nike-training-club-ai
 Noom,Health,Free Trial,Free AI weight loss coaching with psychology-based lessons. 14-day free trial.,https://noom.com/,https://autoventure.live/reviews/noom.html,noom
@@ -192,18 +238,22 @@ Sanvello,Health,Free,"Free AI mental health app with mood tracking, meditation, 
 Woebot,Health,Free,Free AI therapist chatbot for anxiety and depression. Mindfulness exercises.,https://woebot.io/,https://autoventure.live/reviews/woebot.html,woebot
 Youper,Health,Free,Free AI therapist chatbot for anxiety and depression. Mindfulness exercises.,https://youper.ai/,https://autoventure.live/reviews/youper.html,youper
 Zoe,Health,Free Trial,Free AI personalized nutrition based on gut health and blood responses.,https://joinzoe.com/,https://autoventure.live/reviews/zoe.html,zoe
+BambooHR,Hiring,Free Trial,AI-powered HR and hiring platform. Free trial available.,https://bamboohr.com,https://autoventure.live/reviews/bamboohr.html,bamboohr
+Breezy HR,Hiring,Free,AI applicant tracking and hiring. Free plan available.,https://breezy.hr,https://autoventure.live/reviews/breezy-hr.html,breezy-hr
 Codility,Hiring,Free,Free AI coding assessments and screening. Automated code reviews.,https://www.codility.com/,https://autoventure.live/reviews/codility.html,codility
 Glassdoor AI,Hiring,Free,Free AI job recommendations and company insights. Salary and culture data.,https://www.glassdoor.com/,https://autoventure.live/reviews/glassdoor-ai.html,glassdoor-ai
 HireEZ,Hiring,Free,Free AI sourcing platform. LinkedIn recruitment and email outreach.,https://hireez.com/,https://autoventure.live/reviews/hireez.html,hireez
 HireVue,Hiring,Free Trial,Free AI video interviewing and assessments. On-demand and live interviews.,https://www.hirevue.com/,https://autoventure.live/reviews/hirevue.html,hirevue
 Indeed AI,Hiring,Free,Free AI job matching and resume search for employers. Sponsored job credits.,https://www.indeed.com/,https://autoventure.live/reviews/indeed-ai.html,indeed-ai
+Lever,Hiring,Free Trial,AI-powered recruiting and hiring platform. Free trial available.,https://lever.co,https://autoventure.live/reviews/lever.html,lever
 LinkedIn AI,Hiring,Free,Free AI job matching and candidate sourcing. Skills insights and recommendations.,https://www.linkedin.com/,https://autoventure.live/reviews/linkedin-ai.html,linkedin-ai
 Pymetrics,Hiring,Free,Free AI behavioral assessments and soft-skills matching. Bias-free hiring.,https://www.pymetrics.ai/,https://autoventure.live/reviews/pymetrics.html,pymetrics
 TestGorilla,Hiring,Free,Free AI pre-employment assessments. Skills tests and personality tests.,https://www.testgorilla.com/,https://autoventure.live/reviews/testgorilla.html,testgorilla
 Vervoe,Hiring,Free,Free AI skills assessments and simulations. Hire based on performance.,https://vervoe.com/,https://autoventure.live/reviews/vervoe.html,vervoe
+Workable,Hiring,Free,AI hiring and applicant tracking. Free plan available.,https://workable.com,https://autoventure.live/reviews/workable.html,workable
 ZipRecruiter AI,Hiring,Free,Free AI job posting and candidate matching. One-click posting to 100+ boards.,https://www.ziprecruiter.com/,https://autoventure.live/reviews/ziprecruiter-ai.html,ziprecruiter-ai
 Bigjpg,Image Generators,Free,Free AI image enlarger and noise reducer. Upscale anime and photo images without quality loss.,https://bigjpg.com/,https://autoventure.live/reviews/bigjpg.html,bigjpg
-Canva AI,Image Generators,Free,"Free design platform with AI-powered background removal, magic eraser, and text-to-image.",https://www.canva.com/,https://autoventure.live/reviews/canva-ai.html,canva-ai
+DALL-E,Image Generators,Free Trial,OpenAI's AI image generator. Free credits with ChatGPT accounts.,https://openai.com/dall-e,https://autoventure.live/reviews/dall-e.html,dall-e
 Dreamina,Image Generators,Free,"CapCut&#x27;s AI creative platform for generating and editing images, videos, avatars, and marketing visuals from text or reference images, with inpainting, style transfer, and upscaling in one workspace;",https://dreamina.jianying.com,https://autoventure.live/reviews/dreamina.html,dreamina
 EzImgEditor,Image Generators,Free,"Browser-based AI image editor that lets you remove objects, change backgrounds, restyle visuals, and generate headshots from text prompts, with a free tier for basic editing.",https://ezimgeditor.io,https://autoventure.live/reviews/ezimgeditor.html,ezimgeditor
 Ideogram,Image Generators,Free,AI image generator with strong text rendering and editing tools; free tier available via the app with daily prompt limits.,https://ideogram.ai/,https://autoventure.live/reviews/ideogram.html,ideogram
@@ -225,7 +275,9 @@ HotDocs,Legal,Free Trial,Free AI document automation for legal forms. Interview-
 Lawyaw,Legal,Free,Free AI legal document drafting. Microsoft Word integration for templates.,https://lawyaw.com/,https://autoventure.live/reviews/lawyaw.html,lawyaw
 Lexis+ AI,Legal,Free Trial,Free AI legal research with generative answers. Case summaries and citators.,https://www.lexisnexis.com/,https://autoventure.live/reviews/lexis-ai.html,lexis-ai
 ROSS Intelligence,Legal,Free,Free AI legal research platform. Natural language search for case law.,https://rossintelligence.com/,https://autoventure.live/reviews/ross-intelligence.html,ross-intelligence
+AdCreative AI,Marketing for Small Business,Free Trial,AI ad creative generator. Free trial available.,https://adcreative.ai,https://autoventure.live/reviews/adcreative-ai.html,adcreative-ai
 AnswerThePublic,Marketing for Small Business,Free,AI-powered content idea generator based on real search queries (3 free searches/day).,https://answerthepublic.com/,https://autoventure.live/reviews/answerthepublic.html,answerthepublic
+Anyword,Marketing for Small Business,Free,AI copywriting and scoring for ads. Free plan available.,https://anyword.com,https://autoventure.live/reviews/anyword.html,anyword
 Brevo (Sendinblue),Marketing for Small Business,Free,Email marketing with AI send-time optimization on the free tier (300 emails/day).,https://www.brevo.com/,https://autoventure.live/reviews/brevo-sendinblue.html,brevo-sendinblue
 Buffer AI,Marketing for Small Business,Free,Social scheduling with AI post suggestions and optimal timing; free plan for 3 channels.,https://buffer.com/,https://autoventure.live/reviews/buffer-ai.html,buffer-ai
 HubSpot Free CRM,Marketing for Small Business,Free,CRM with AI-powered email scheduling and basic automation at no cost for up to 1M contacts.,https://www.hubspot.com/products/crm,https://autoventure.live/reviews/hubspot-free-crm.html,hubspot-free-crm
@@ -233,6 +285,7 @@ Lumen5,Marketing for Small Business,Free,Turn blog posts into social videos with
 Mailchimp Free AI,Marketing for Small Business,Free,AI-driven subject line and content suggestions on the free plan (500 subscribers).,https://mailchimp.com/,https://autoventure.live/reviews/mailchimp-free-ai.html,mailchimp-free-ai
 Surfer SEO,Marketing for Small Business,Free Trial,AI-powered SEO content optimizer with a free trial for content grading and keyword research.,https://surferseo.com/,https://autoventure.live/reviews/surfer-seo.html,surfer-seo
 Ubersuggest,Marketing for Small Business,Free,Free SEO tool with AI keyword suggestions and basic site audit (3 searches/day).,https://neilpatel.com/ubersuggest/,https://autoventure.live/reviews/ubersuggest.html,ubersuggest
+Airgram,Meeting,Free,AI meeting notes and transcription. Free plan available.,https://airgram.io,https://autoventure.live/reviews/airgram.html,airgram
 Cal.com,Meeting,Free,Free open-source scheduling infrastructure with AI routing.,https://cal.com/,https://autoventure.live/reviews/cal-com.html,cal-com
 Calendly AI,Meeting,Free,Free AI scheduling link with automated reminders and routing.,https://calendly.com/,https://autoventure.live/reviews/calendly-ai.html,calendly-ai
 Clockwise,Meeting,Free,Free AI calendar optimizer that frees up focus time.,https://www.getclockwise.com/,https://autoventure.live/reviews/clockwise.html,clockwise
@@ -245,19 +298,25 @@ Microsoft Teams AI,Meeting,Free,"Free AI meetings with transcription, recap, and
 Motion,Meeting,Free Trial,Free AI calendar and task manager with auto-scheduling.,https://www.usemotion.com/,https://autoventure.live/reviews/motion.html,motion
 Reclaim.ai,Meeting,Free,Free AI scheduling and habit blocking for Google Calendar.,https://reclaim.ai/,https://autoventure.live/reviews/reclaim-ai.html,reclaim-ai
 tl;dv,Meeting,Free,"Free AI meeting recorder and notetaker that transcribes calls, generates summaries, and extracts action items from Zoom, Google Meet, and Teams.",https://tldv.io,https://autoventure.live/reviews/tl-dv.html,tl-dv
+Tldv,Meeting,Free,AI meeting summaries and highlights. Free plan available.,https://tldv.io,https://autoventure.live/reviews/tldv.html,tldv
 Whereby,Meeting,Free,Free AI-assisted video meetings. No downloads needed.,https://whereby.com/,https://autoventure.live/reviews/whereby.html,whereby
 Zoom AI,Meeting,Free,"Free AI meeting platform with transcription, summaries, and smart recording.",https://zoom.us/,https://autoventure.live/reviews/zoom-ai.html,zoom-ai
 Asana AI,Productivity to Boost Workflow,Free,Workflow automation and smart task suggestions on the free tier (up to 15 teammates).,https://asana.com/,https://autoventure.live/reviews/asana-ai.html,asana-ai
+ClickUp,Productivity to Boost Workflow,Free,AI project management with built-in automation. Free plan available.,https://clickup.com,https://autoventure.live/reviews/clickup.html,clickup
 Kome,Productivity to Boost Workflow,Free,"Browser extension that summarizes articles, webpages, and YouTube videos while managing bookmarks and AI-assisted composing, with a free tier of 5 summary credits per month.",https://www.kome.ai,https://autoventure.live/reviews/kome.html,kome
 Linear,Productivity to Boost Workflow,Free,Product development issue tracker with a free tier that includes the Agent platform and AI-powered workflows for teams.,https://linear.app,https://autoventure.live/reviews/linear.html,linear
 Logseq,Productivity to Boost Workflow,Free,Open-source outliner with AI-assisted linking and querying; fully free and local-first.,https://logseq.com/,https://autoventure.live/reviews/logseq.html,logseq
 Make (Integromat),Productivity to Boost Workflow,Free,"Visual automation builder with AI-assisted scenarios; free tier includes 1,000 operations/month.",https://www.make.com/,https://autoventure.live/reviews/make-integromat.html,make-integromat
 Me.bot,Productivity to Boost Workflow,Free,"Personal AI &#x27;second brain&#x27; that learns from your notes, audio, and data to generate tailored voice presentations and insights; the free tier gives 100 new memories and 100 chat messages per month.",https://me.bot,https://autoventure.live/reviews/me-bot.html,me-bot
 Mem.ai,Productivity to Boost Workflow,Free,AI-organized notes and auto-tagging with a free starter plan (1 GB storage).,https://get.mem.ai/,https://autoventure.live/reviews/mem-ai.html,mem-ai
+Miro,Productivity to Boost Workflow,Free,AI-enhanced collaborative whiteboard. Free plan available.,https://miro.com,https://autoventure.live/reviews/miro.html,miro
+Mural,Productivity to Boost Workflow,Free,AI-powered visual collaboration platform. Free plan available.,https://mural.co,https://autoventure.live/reviews/mural.html,mural
 Obsidian AI,Productivity to Boost Workflow,Free,Local knowledge base with community AI plugins; core app is free for personal use.,https://obsidian.md/,https://autoventure.live/reviews/obsidian-ai.html,obsidian-ai
 Peony,Productivity to Boost Workflow,Free,"Virtual data room with AI-powered Q&amp;A, auto-indexing, smart search, and e-signatures, with a free starter tier to create rooms.",https://peony.ink,https://autoventure.live/reviews/peony.html,peony
 Rewind.ai,Productivity to Boost Workflow,Free,"Platform aggregating 400+ AI tools and models in one place — chat, image, video, code, transcription — with 5,000 free tokens daily and no credit card required.",https://www.rewind.ai,https://autoventure.live/reviews/rewind-ai.html,rewind-ai
+Rippling,Productivity to Boost Workflow,Free Trial,AI-powered HR and IT automation platform. Free trial available.,https://rippling.com,https://autoventure.live/reviews/rippling.html,rippling
 Todoist AI,Productivity to Boost Workflow,Free,"AI-powered task manager with natural language input, smart scheduling, and productivity insights; free tier for up to 5 projects.",https://todoist.com/,https://autoventure.live/reviews/todoist-ai.html,todoist-ai
+Tome,Productivity to Boost Workflow,Free,AI presentation builder that creates polished decks from prompts. Free tier available.,https://tome.app,https://autoventure.live/reviews/tome.html,tome
 Voicenotes,Productivity to Boost Workflow,Free,"AI note-taking app that records meetings and memos, transcribes them in 60+ languages, and lets you ask questions about past conversations; the free tier includes 100 minutes of transcripts and summar",https://voicenotes.com,https://autoventure.live/reviews/voicenotes.html,voicenotes
 Wery AI,Productivity to Boost Workflow,Free,"Free AI agent workspace that routes tasks to specialized experts for research, coding, and document work, with a free tier including 100 monthly credits and single-threaded task execution.",https://wery.ai/,https://autoventure.live/reviews/wery-ai.html,wery-ai
 whacka,Productivity to Boost Workflow,Free,"Free AI no-code platform that turns plain-language descriptions into real, working apps with built-in backend, database, and hosting — 8 free build credits per day, no card required.",https://whacka.app/,https://autoventure.live/reviews/whacka.html,whacka
@@ -280,6 +339,9 @@ ExplainPaper,Research,Free,"Upload academic PDFs and highlight confusing section
 Google NotebookLM,Research,Free,"Google&#x27;s AI research assistant that builds source-grounded notebooks from uploaded PDFs, websites, and audio; free tier includes up to 100 notebooks and audio overviews.",https://notebooklm.google.com/,https://autoventure.live/reviews/google-notebooklm.html,google-notebooklm
 Humata,Research,Free,"Free AI PDF and document assistant that answers questions across uploaded files with cited sources, offering a free tier with up to 60 pages per month.",https://humata.ai,https://autoventure.live/reviews/humata.html,humata
 Litmaps,Research,Free,Interactive literature maps with AI suggestions for related papers.,https://www.litmaps.com/,https://autoventure.live/reviews/litmaps.html,litmaps
+NotebookLM,Research,Free,"AI research assistant from Google that summarizes documents, creates podcasts, and answers questions from your sources. Free with Google account.",https://notebooklm.google.com,https://autoventure.live/reviews/notebooklm.html,notebooklm
+Perplexity,Research,Free,AI answer engine with cited sources. Free tier with pro features available.,https://perplexity.ai,https://autoventure.live/reviews/perplexity.html,perplexity
+Perplexity AI,Research,Free,AI-powered search engine that provides sourced answers. Free tier with Pro available.,https://perplexity.ai,https://autoventure.live/reviews/perplexity-ai.html,perplexity-ai
 Rayyan,Research,Free,AI-assisted systematic review screening; free for academic use.,https://www.rayyan.ai/,https://autoventure.live/reviews/rayyan.html,rayyan
 ResearchRabbit,Research,Free,AI-driven paper recommendations and collection tool; free to use.,https://www.researchrabbit.ai/,https://autoventure.live/reviews/researchrabbit.html,researchrabbit
 SciSpace,Research,Free,"AI research agent that chats with PDFs, generates literature reviews, and provides citation-backed answers, with a free tier for basic research tasks.",https://scispace.com,https://autoventure.live/reviews/scispace.html,scispace
@@ -307,11 +369,14 @@ SocialBee,Social Media,Free,Free AI social scheduling with content categories an
 Sprout Social (Free Trial),Social Media,Free Trial,Free AI social listening and competitor benchmarking. 30-day free trial.,https://sproutsocial.com/,https://autoventure.live/reviews/sprout-social-free-trial.html,sprout-social-free-trial
 AI Image Translator,Translation,Free,"Free online tool that uses AI to extract and translate text from images into 200+ languages without requiring sign-up, supporting batch processing and layout preservation.",https://aiimagetranslator.io/,https://autoventure.live/reviews/ai-image-translator.html,ai-image-translator
 Crowdin,Translation,Free,Free AI localization for apps and websites. Continuous localization workflow.,https://crowdin.com/,https://autoventure.live/reviews/crowdin.html,crowdin
+DeepL,Translation,Free,AI-powered translation with high accuracy. Free tier available.,https://deepl.com,https://autoventure.live/reviews/deepl.html,deepl
 Lokalise AI,Translation,Free,Free AI translation management for mobile apps and games. Auto-translate.,https://lokalise.com/,https://autoventure.live/reviews/lokalise-ai.html,lokalise-ai
 Phrase,Translation,Free,Free AI localization platform with automated translation workflows.,https://phrase.com/,https://autoventure.live/reviews/phrase.html,phrase
 Rask AI,Translation,Free,Free AI video translation with voice cloning in 130+ languages.,https://rask.ai/,https://autoventure.live/reviews/rask-ai.html,rask-ai
 Smartcat,Translation,Free,Free AI localization platform for teams. Manage translations and freelancers.,https://www.smartcat.com/,https://autoventure.live/reviews/smartcat.html,smartcat
+Systran,Translation,Free,AI translation software for enterprises. Free plan available.,https://systran.net,https://autoventure.live/reviews/systran.html,systran
 Transifex,Translation,Free,Free AI-powered localization for continuous delivery. GitHub integration.,https://www.transifex.com/,https://autoventure.live/reviews/transifex.html,transifex
+Unbabel,Translation,Free Trial,AI-powered human-quality translation. Free trial available.,https://unbabel.com,https://autoventure.live/reviews/unbabel.html,unbabel
 Beautiful.ai,Video,Free Trial,AI presentation software that auto-designs slides from your content; offers a 14-day free trial of Pro features.,https://www.beautiful.ai/,https://autoventure.live/reviews/beautiful-ai.html,beautiful-ai
 CapCut,Video,Free,"Free AI-powered video editor with auto-captions, effects, and cloud storage. No watermark.",https://www.capcut.com/,https://autoventure.live/reviews/capcut.html,capcut
 Clipchamp,Video,Free,"Free browser-based video editor with AI auto-editing, templates, and stock library.",https://clipchamp.com/,https://autoventure.live/reviews/clipchamp.html,clipchamp
@@ -320,7 +385,10 @@ FreeLipSync,Video,Free,"Free online AI lip sync generator that turns photos and 
 Gamma,Video,Free,"AI tool that generates presentations, documents, and webpages from text prompts; free tier provides 400 AI credits per month with a Made with Gamma watermark.",https://gamma.app/,https://autoventure.live/reviews/gamma.html,gamma
 Hailuo AI,Video,Free,"MiniMax&#x27;s AI video generator that creates short clips from text prompts, with a free daily credit allowance and no watermark on standard outputs.",https://hailuoai.video/,https://autoventure.live/reviews/hailuo-ai.html,hailuo-ai
 HeyGen,Video,Free,"AI video generator for avatar videos, photo-to-video, and dubbing; free tier includes 3 videos per month up to 1 minute.",https://www.heygen.com/,https://autoventure.live/reviews/heygen.html,heygen
+InVideo,Video,Free,AI-powered online video editor with templates. Free plan available.,https://invideo.io,https://autoventure.live/reviews/invideo.html,invideo
 InVideo AI,Video,Free,Free AI video creation platform. Turn text prompts into publishable videos with stock footage.,https://invideo.io/,https://autoventure.live/reviews/invideo-ai.html,invideo-ai
+Kling AI,Video,Free Trial,AI video generator that creates clips from text prompts. Free credits available for new users.,https://klingai.com,https://autoventure.live/reviews/kling-ai.html,kling-ai
+Luma AI,Video,Free Trial,AI 3D capture and video generation platform. Free credits available.,https://lumalabs.ai,https://autoventure.live/reviews/luma-ai.html,luma-ai
 Luma Dream Machine,Video,Free Trial,AI video generation platform (Ray3.2) for text-to-video and image-to-video; free trial credits available to start generating clips.,https://lumalabs.ai/,https://autoventure.live/reviews/luma-dream-machine.html,luma-dream-machine
 Magic Hour,Video,Free,"AI creative platform bundling 100+ free tools for video generation, image creation, face swap, lip sync, and audio, with daily free credits and no credit card needed.",https://magichour.ai/,https://autoventure.live/reviews/magic-hour.html,magic-hour
 Muse Video AI,Video,Free,Meta&#x27;s native-audio text-to-video generator that creates short clips with synchronized sound; new accounts receive free credits to start.,https://muse-video.ai/,https://autoventure.live/reviews/muse-video-ai.html,muse-video-ai
@@ -332,7 +400,9 @@ Synthesia,Video,Free,Free AI video generator with digital avatars. Create presen
 Vmake,Video,Free,"Free AI UGC video generator that turns product images into viral short-form videos for TikTok, Reels, and Shorts, with 20 daily credits and access to models like Seedance 2.0, Sora 2, and Veo 3.1.",https://vmake.ai/,https://autoventure.live/reviews/vmake.html,vmake
 DeepL Write,Writing,Free,"AI writing assistant that improves grammar, tone, and clarity across multiple languages, with a free tier for basic text enhancement.",https://www.deepl.com/write,https://autoventure.live/reviews/deepl-write.html,deepl-write
 Hemingway Editor,Writing,Free,Readability-focused editor that highlights complex sentences; free online.,https://hemingwayapp.com/,https://autoventure.live/reviews/hemingway-editor.html,hemingway-editor
+Jasper,Writing,Free Trial,AI writing assistant for marketing content. Free trial available.,https://jasper.ai,https://autoventure.live/reviews/jasper.html,jasper
 Jenni AI,Writing,Free,"AI academic writing assistant that helps researchers write, cite, and read papers with traceable sources, offering a free tier for writing and citations.",https://jenni.ai,https://autoventure.live/reviews/jenni-ai.html,jenni-ai
 LanguageTool,Writing,Free,Open-source grammar and style checker supporting 30+ languages.,https://languagetool.org/,https://autoventure.live/reviews/languagetool.html,languagetool
 ProWritingAid,Writing,Free,Style and grammar checker with a free web version.,https://prowritingaid.com/,https://autoventure.live/reviews/prowritingaid.html,prowritingaid
 Wordtune,Writing,Free,AI sentence rephraser and tone adjuster with a free plan.,https://wordtune.com/,https://autoventure.live/reviews/wordtune.html,wordtune
+Writerly AI,Writing,Free,AI content generation for teams. Free tier available.,https://writerly.ai,https://autoventure.live/reviews/writerly-ai.html,writerly-ai
