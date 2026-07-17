@@ -3,8 +3,8 @@
   "description": "A curated dataset of free and free-trial AI tools across 25 categories, with descriptions, pricing tier, website and review links.",
   "source": "https://autoventure.live",
   "license": "Free to use with attribution — link back to https://autoventure.live",
-  "updated": "2026-07-13",
-  "count": 407,
+  "updated": "2026-07-17",
+  "count": 416,
   "tools": [
     {
       "name": "Adobe Podcast",
@@ -163,7 +163,7 @@
       "category_id": "audio-tools",
       "pricing": "Free",
       "description": "Free AI voice generator with ultra-realistic voices. Create voiceovers for videos and podcasts.",
-      "website": "https://play.ht/",
+      "website": "https://play.ht",
       "review_url": "https://autoventure.live/reviews/play-ht.html"
     },
     {
@@ -1077,6 +1077,36 @@
       "review_url": "https://autoventure.live/reviews/lovable.html"
     },
     {
+      "name": "NxCode",
+      "slug": "nxcode",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "AI app builder that transforms plain-English ideas into production-ready web and mobile apps, with a free starter tier that requires no credit card.",
+      "website": "https://nxcode.io",
+      "review_url": "https://autoventure.live/reviews/nxcode.html"
+    },
+    {
+      "name": "OpenInterpreter",
+      "slug": "openinterpreter",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Open-source AI coding agent that runs in the terminal or as a desktop app, enabling code editing, command execution, and test automation with support for multiple model providers.",
+      "website": "https://openinterpreter.com",
+      "review_url": "https://autoventure.live/reviews/openinterpreter.html"
+    },
+    {
+      "name": "Reasonix",
+      "slug": "reasonix",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Terminal-native AI coding agent built for DeepSeek with cache-first loop design, offering 90%+ cache hit rates and open-source MIT-licensed CLI/TUI/desktop apps.",
+      "website": "https://reasonix.io",
+      "review_url": "https://autoventure.live/reviews/reasonix.html"
+    },
+    {
       "name": "Replit",
       "slug": "replit",
       "category": "Code",
@@ -1407,6 +1437,16 @@
       "review_url": "https://autoventure.live/reviews/adobe-firefly.html"
     },
     {
+      "name": "ArchDiagramAI",
+      "slug": "archdiagramai",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free Trial",
+      "description": "AI architecture diagram generator that turns plain-English prompts or reference images into professional system diagrams in multiple styles, with a free trial for the first diagram.",
+      "website": "https://architecturediagramai.com",
+      "review_url": "https://autoventure.live/reviews/archdiagramai.html"
+    },
+    {
       "name": "Canva AI",
       "slug": "canva-ai",
       "category": "Design",
@@ -1513,7 +1553,7 @@
       "category_id": "design-tools",
       "pricing": "Free",
       "description": "Free AI image generator with stunning artistic styles. Create visuals from text prompts.",
-      "website": "https://www.midjourney.com/",
+      "website": "https://midjourney.com",
       "review_url": "https://autoventure.live/reviews/midjourney.html"
     },
     {
@@ -1853,7 +1893,7 @@
       "category_id": "education-tools",
       "pricing": "Free",
       "description": "Free AI writing assistant for essays and research papers. Grammar, tone, and plagiarism check.",
-      "website": "https://www.grammarly.com/",
+      "website": "https://grammarly.com",
       "review_url": "https://autoventure.live/reviews/grammarly.html"
     },
     {
@@ -2937,6 +2977,16 @@
       "review_url": "https://autoventure.live/reviews/google-meet-ai.html"
     },
     {
+      "name": "Grain",
+      "slug": "grain",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "AI notetaker that captures and enriches meetings with video recording, transcripts, and AI summaries, offering a free forever plan with bot-less transcription.",
+      "website": "https://grain.com",
+      "review_url": "https://autoventure.live/reviews/grain.html"
+    },
+    {
       "name": "Granola",
       "slug": "granola",
       "category": "Meeting",
@@ -2955,6 +3005,16 @@
       "description": "Free open-source video conferencing. Self-host or use meet.jit.si.",
       "website": "https://jitsi.org/",
       "review_url": "https://autoventure.live/reviews/jitsi-meet.html"
+    },
+    {
+      "name": "Meetily",
+      "slug": "meetily",
+      "category": "Meeting",
+      "category_id": "meeting-tools",
+      "pricing": "Free",
+      "description": "Privacy-first AI meeting assistant that records, transcribes, and summarizes meetings 100% on your device with open-source core, supporting Zoom, Teams, and Meet.",
+      "website": "https://meetily.ai",
+      "review_url": "https://autoventure.live/reviews/meetily.html"
     },
     {
       "name": "Microsoft Teams AI",
@@ -3045,6 +3105,16 @@
       "description": "AI project management with built-in automation. Free plan available.",
       "website": "https://clickup.com",
       "review_url": "https://autoventure.live/reviews/clickup.html"
+    },
+    {
+      "name": "Karakeep",
+      "slug": "karakeep",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "Open-source bookmark manager with AI auto-tagging, browser extensions, native apps, full-text search, RSS clipping, and self-hosting support via Docker.",
+      "website": "https://karakeep.app",
+      "review_url": "https://autoventure.live/reviews/karakeep.html"
     },
     {
       "name": "Kome",
@@ -3863,7 +3933,7 @@
       "category_id": "video-tools",
       "pricing": "Free",
       "description": "AI video generator for avatar videos, photo-to-video, and dubbing; free tier includes 3 videos per month up to 1 minute.",
-      "website": "https://www.heygen.com/",
+      "website": "https://heygen.com",
       "review_url": "https://autoventure.live/reviews/heygen.html"
     },
     {
@@ -3937,6 +4007,16 @@
       "review_url": "https://autoventure.live/reviews/muse-video-ai.html"
     },
     {
+      "name": "OpenCut",
+      "slug": "opencut",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Open-source, privacy-first video editor in early beta that enables cross-platform timeline editing with dark theme and standard export formats, prioritizing local, auditable workflows.",
+      "website": "https://opencut.app",
+      "review_url": "https://autoventure.live/reviews/opencut.html"
+    },
+    {
       "name": "Pictory",
       "slug": "pictory",
       "category": "Video",
@@ -3955,6 +4035,16 @@
       "description": "Free AI video generation from text or images. High-quality short videos with style control.",
       "website": "https://pika.art/",
       "review_url": "https://autoventure.live/reviews/pika-labs.html"
+    },
+    {
+      "name": "Protoface",
+      "slug": "protoface",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Real-time AI avatar platform that delivers expressive full-face motion from a single image, with a free tier to start and scalable pricing at $0.01 per minute.",
+      "website": "https://protoface.com",
+      "review_url": "https://autoventure.live/reviews/protoface.html"
     },
     {
       "name": "Runway ML",
@@ -3983,7 +4073,7 @@
       "category_id": "video-tools",
       "pricing": "Free",
       "description": "Free AI video generator with digital avatars. Create presenter-led videos from text scripts.",
-      "website": "https://www.synthesia.io/",
+      "website": "https://synthesia.io",
       "review_url": "https://autoventure.live/reviews/synthesia.html"
     },
     {
