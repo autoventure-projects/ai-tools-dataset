@@ -3,8 +3,8 @@
   "description": "A curated dataset of free and free-trial AI tools across 25 categories, with descriptions, pricing tier, website and review links.",
   "source": "https://autoventure.live",
   "license": "Free to use with attribution — link back to https://autoventure.live",
-  "updated": "2026-07-17",
-  "count": 416,
+  "updated": "2026-07-19",
+  "count": 424,
   "tools": [
     {
       "name": "Adobe Podcast",
@@ -45,6 +45,16 @@
       "description": "Free AI audio editor for podcasters. Auto-remove noise, filler words, and silence.",
       "website": "https://audo.ai/",
       "review_url": "https://autoventure.live/reviews/audo-studio.html"
+    },
+    {
+      "name": "Clumi AI",
+      "slug": "clumi-ai",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Browser-based AI vocal remover, stem splitter, and audio enhancer that lets you isolate vocals, remove background noise, and convert audio to MIDI with a free tier limited to 3 files.",
+      "website": "https://clumi.ai/",
+      "review_url": "https://autoventure.live/reviews/clumi-ai.html"
     },
     {
       "name": "Descript",
@@ -1377,6 +1387,16 @@
       "review_url": "https://autoventure.live/reviews/label-studio.html"
     },
     {
+      "name": "LlamaParse",
+      "slug": "llamaparse",
+      "category": "Data",
+      "category_id": "data-tools",
+      "pricing": "Free",
+      "description": "Document processing platform from LlamaIndex that parses 130+ file formats into LLM-ready markdown and JSON, with a free tier of 10,000 credits per month (~1,000 pages).",
+      "website": "https://www.llamaindex.ai/",
+      "review_url": "https://autoventure.live/reviews/llamaparse.html"
+    },
+    {
       "name": "New Relic AI",
       "slug": "new-relic-ai",
       "category": "Data",
@@ -2617,6 +2637,26 @@
       "review_url": "https://autoventure.live/reviews/ezimgeditor.html"
     },
     {
+      "name": "FreeMake.cc",
+      "slug": "freemake-cc",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "No-signup AI image generator with multiple models (GPT Image 2, Gemini 3, Seedream) and built-in e-commerce tools, offering a free forever tier with 1K resolution.",
+      "website": "https://freemake.cc/",
+      "review_url": "https://autoventure.live/reviews/freemake-cc.html"
+    },
+    {
+      "name": "Gazouya",
+      "slug": "gazouya",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "Japanese AI image creation platform that generates high-quality photos, illustrations, anime, and manga from text prompts, with daily free credits and no registration required.",
+      "website": "https://gazouya.com/",
+      "review_url": "https://autoventure.live/reviews/gazouya.html"
+    },
+    {
       "name": "Ideogram",
       "slug": "ideogram",
       "category": "Image Generators",
@@ -2625,6 +2665,16 @@
       "description": "AI image generator with strong text rendering and editing tools; free tier available via the app with daily prompt limits.",
       "website": "https://ideogram.ai/",
       "review_url": "https://autoventure.live/reviews/ideogram.html"
+    },
+    {
+      "name": "Imagvio AI",
+      "slug": "imagvio-ai",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "Prompt-driven AI image editor (Nano Banana) that keeps character consistency across edits, supports multi-image fusion, and offers free credits for new users plus daily check-in rewards.",
+      "website": "https://imagvio.ai/",
+      "review_url": "https://autoventure.live/reviews/imagvio-ai.html"
     },
     {
       "name": "Leonardo AI",
@@ -4077,6 +4127,26 @@
       "review_url": "https://autoventure.live/reviews/synthesia.html"
     },
     {
+      "name": "TapVid",
+      "slug": "tapvid",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free Trial",
+      "description": "AI motion graphics video generator that turns prompts, PDFs, or links into structured explainer videos with visuals, voiceover, and subtitles; offers a 7-day free trial then paid plans.",
+      "website": "https://tapvid.ai/",
+      "review_url": "https://autoventure.live/reviews/tapvid.html"
+    },
+    {
+      "name": "VideoUpscale.net",
+      "slug": "videoupscale-net",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free Trial",
+      "description": "Online AI video upscaler that enhances and upscales footage to 1080p, 2K, or 4K with blur reduction and noise cleanup; new users receive 10 free credits to try.",
+      "website": "https://videoupscale.net/",
+      "review_url": "https://autoventure.live/reviews/videoupscale-net.html"
+    },
+    {
       "name": "Vmake",
       "slug": "vmake",
       "category": "Video",
@@ -4145,6 +4215,16 @@
       "description": "Style and grammar checker with a free web version.",
       "website": "https://prowritingaid.com/",
       "review_url": "https://autoventure.live/reviews/prowritingaid.html"
+    },
+    {
+      "name": "Unfox AI",
+      "slug": "unfox-ai",
+      "category": "Writing",
+      "category_id": "writing-tools",
+      "pricing": "Free",
+      "description": "Multilingual AI content detector that identifies AI-generated text with sentence-level highlighting and bulk detection, offering a free tier with no credit card required.",
+      "website": "https://unfox.ai/",
+      "review_url": "https://autoventure.live/reviews/unfox-ai.html"
     },
     {
       "name": "Wordtune",
