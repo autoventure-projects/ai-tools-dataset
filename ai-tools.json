@@ -3,8 +3,8 @@
   "description": "A curated dataset of free and free-trial AI tools across 25 categories, with descriptions, pricing tier, website and review links.",
   "source": "https://autoventure.live",
   "license": "Free to use with attribution — link back to https://autoventure.live",
-  "updated": "2026-07-19",
-  "count": 424,
+  "updated": "2026-07-23",
+  "count": 432,
   "tools": [
     {
       "name": "Adobe Podcast",
@@ -1237,6 +1237,16 @@
       "review_url": "https://autoventure.live/reviews/intercom-ai.html"
     },
     {
+      "name": "KalTalk",
+      "slug": "kaltalk",
+      "category": "Customer Service",
+      "category_id": "customer-service-tools",
+      "pricing": "Free",
+      "description": "Single AI agent that handles support tickets from your docs and scores visitor intent in real time to reach out when buyers are ready, with a free tier to get started.",
+      "website": "https://kaltalk.com/",
+      "review_url": "https://autoventure.live/reviews/kaltalk.html"
+    },
+    {
       "name": "Levity",
       "slug": "levity",
       "category": "Customer Service",
@@ -1375,6 +1385,16 @@
       "description": "Open-source library and community for dataset preparation and labeling.",
       "website": "https://huggingface.co/datasets",
       "review_url": "https://autoventure.live/reviews/hugging-face-datasets.html"
+    },
+    {
+      "name": "Kompy",
+      "slug": "kompy",
+      "category": "Data",
+      "category_id": "data-tools",
+      "pricing": "Free",
+      "description": "Unified Walmart data API that delivers live prices, stock, sellers, and full price history as clean JSON via REST or MCP, with free starter credits for developers and agents.",
+      "website": "https://kompy.io/",
+      "review_url": "https://autoventure.live/reviews/kompy.html"
     },
     {
       "name": "Label Studio",
@@ -1735,6 +1755,16 @@
       "description": "AI-powered user behavior analytics. Free plan available.",
       "website": "https://hotjar.com",
       "review_url": "https://autoventure.live/reviews/hotjar.html"
+    },
+    {
+      "name": "InsightAgent",
+      "slug": "insightagent",
+      "category": "Ecommerce",
+      "category_id": "ecommerce-tools",
+      "pricing": "Free",
+      "description": "AI-powered Etsy market research and seller platform that connects product discovery, keyword validation, competitor analysis, and listing creation, with a free tier offering 15 credits and no credit c",
+      "website": "https://insightagent.app/",
+      "review_url": "https://autoventure.live/reviews/insightagent.html"
     },
     {
       "name": "Jasper AI",
@@ -2867,6 +2897,16 @@
       "review_url": "https://autoventure.live/reviews/adcreative-ai.html"
     },
     {
+      "name": "Analook",
+      "slug": "analook",
+      "category": "Marketing for Small Business",
+      "category_id": "marketing-tools",
+      "pricing": "Free",
+      "description": "Free AI competitor analysis tool that generates a complete growth and SEO report in 60 seconds from any URL, with 2 free reports per month and no credit card required.",
+      "website": "https://www.analook.com/",
+      "review_url": "https://autoventure.live/reviews/analook.html"
+    },
+    {
       "name": "AnswerThePublic",
       "slug": "answerthepublic",
       "category": "Marketing for Small Business",
@@ -2935,6 +2975,16 @@
       "description": "AI-driven subject line and content suggestions on the free plan (500 subscribers).",
       "website": "https://mailchimp.com/",
       "review_url": "https://autoventure.live/reviews/mailchimp-free-ai.html"
+    },
+    {
+      "name": "Supaslides",
+      "slug": "supaslides",
+      "category": "Marketing for Small Business",
+      "category_id": "marketing-tools",
+      "pricing": "Free",
+      "description": "AI animated carousel generator that turns any brand URL into on-brand, export-ready slides for Instagram, TikTok, LinkedIn, and more in about 60 seconds, with a free plan available.",
+      "website": "https://supaslides.app/",
+      "review_url": "https://autoventure.live/reviews/supaslides.html"
     },
     {
       "name": "Surfer SEO",
@@ -3355,6 +3405,16 @@
       "description": "Free AI real estate CRM with lead routing and automated follow-ups.",
       "website": "https://www.boomtownroi.com/",
       "review_url": "https://autoventure.live/reviews/boomtown.html"
+    },
+    {
+      "name": "GeoRank",
+      "slug": "georank",
+      "category": "Real Estate",
+      "category_id": "real-estate-tools",
+      "pricing": "Free",
+      "description": "Free interactive map for global relocation research that layers sunshine, taxes, visas, cost of living, and risk data, letting you pin up to 20 places and chat with an AI assistant about your shortlis",
+      "website": "https://georank.place/",
+      "review_url": "https://autoventure.live/reviews/georank.html"
     },
     {
       "name": "HouseCanary",
@@ -4157,6 +4217,16 @@
       "review_url": "https://autoventure.live/reviews/vmake.html"
     },
     {
+      "name": "BlueHumanizer",
+      "slug": "bluehumanizer",
+      "category": "Writing",
+      "category_id": "writing-tools",
+      "pricing": "Free",
+      "description": "AI humanizer that transforms stiff ChatGPT, Claude, or Gemini output into clear, natural prose in one click while preserving meaning and citations, free to start with no credit card.",
+      "website": "https://bluehumanizer.com/",
+      "review_url": "https://autoventure.live/reviews/bluehumanizer.html"
+    },
+    {
       "name": "DeepL Write",
       "slug": "deepl-write",
       "category": "Writing",
@@ -4215,6 +4285,16 @@
       "description": "Style and grammar checker with a free web version.",
       "website": "https://prowritingaid.com/",
       "review_url": "https://autoventure.live/reviews/prowritingaid.html"
+    },
+    {
+      "name": "UndetectedGPT",
+      "slug": "undetectedgpt",
+      "category": "Writing",
+      "category_id": "writing-tools",
+      "pricing": "Free",
+      "description": "All-in-one platform that rewrites AI-generated text into undetectable, human-like writing using its Ghost-1 model, with a free tier for humanizing and detecting AI content.",
+      "website": "https://www.undetectedgpt.ai/",
+      "review_url": "https://autoventure.live/reviews/undetectedgpt.html"
     },
     {
       "name": "Unfox AI",
