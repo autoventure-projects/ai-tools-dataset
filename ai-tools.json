@@ -3,8 +3,8 @@
   "description": "A curated dataset of free and free-trial AI tools across 25 categories, with descriptions, pricing tier, website and review links.",
   "source": "https://autoventure.live",
   "license": "Free to use with attribution — link back to https://autoventure.live",
-  "updated": "2026-07-23",
-  "count": 432,
+  "updated": "2026-07-26",
+  "count": 440,
   "tools": [
     {
       "name": "Adobe Podcast",
@@ -587,6 +587,16 @@
       "review_url": "https://autoventure.live/reviews/openclaw.html"
     },
     {
+      "name": "OpenWorker",
+      "slug": "openworker",
+      "category": "Automation",
+      "category_id": "automation-tools",
+      "pricing": "Free",
+      "description": "Open-source desktop AI agent that connects to your files, Slack, calendar, and email to complete multi-step tasks end-to-end, free and local-first.",
+      "website": "https://openworker.com/",
+      "review_url": "https://autoventure.live/reviews/openworker.html"
+    },
+    {
       "name": "PagerDuty",
       "slug": "pagerduty",
       "category": "Automation",
@@ -1047,6 +1057,16 @@
       "review_url": "https://autoventure.live/reviews/groq.html"
     },
     {
+      "name": "JCode",
+      "slug": "jcode",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Open-source terminal coding agent built in Rust that automates development tasks in the command line, free to use and self-host.",
+      "website": "https://jcode.sh/",
+      "review_url": "https://autoventure.live/reviews/jcode.html"
+    },
+    {
       "name": "Langfuse",
       "slug": "langfuse",
       "category": "Code",
@@ -1095,6 +1115,16 @@
       "description": "AI app builder that transforms plain-English ideas into production-ready web and mobile apps, with a free starter tier that requires no credit card.",
       "website": "https://nxcode.io",
       "review_url": "https://autoventure.live/reviews/nxcode.html"
+    },
+    {
+      "name": "Open Code Review",
+      "slug": "open-code-review",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Privacy-first AI code review tool that generates line-level comments on pull requests, available for free.",
+      "website": "https://open-codereview.ai/",
+      "review_url": "https://autoventure.live/reviews/open-code-review.html"
     },
     {
       "name": "OpenInterpreter",
@@ -1565,6 +1595,16 @@
       "description": "Free AI logo maker. Generate complete brand identities in minutes.",
       "website": "https://looka.com/",
       "review_url": "https://autoventure.live/reviews/looka.html"
+    },
+    {
+      "name": "Lovspark AI",
+      "slug": "lovspark-ai",
+      "category": "Design",
+      "category_id": "design-tools",
+      "pricing": "Free Trial",
+      "description": "Collaborative AI platform for interior designers and architects that generates renders, virtual staging, and material swaps from white models or photos, with a freemium model.",
+      "website": "https://lovspark.ai/",
+      "review_url": "https://autoventure.live/reviews/lovspark-ai.html"
     },
     {
       "name": "Makko AI",
@@ -2727,6 +2767,16 @@
       "review_url": "https://autoventure.live/reviews/let-s-enhance.html"
     },
     {
+      "name": "Patentfig AI",
+      "slug": "patentfig-ai",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "AI-powered patent drawing generator that converts sketches, photos, or CAD screenshots into compliant patent figures with a free tier of 20 credits per month.",
+      "website": "https://patentfig.ai/",
+      "review_url": "https://autoventure.live/reviews/patentfig-ai.html"
+    },
+    {
       "name": "Photopea",
       "slug": "photopea",
       "category": "Image Generators",
@@ -2925,6 +2975,16 @@
       "description": "AI copywriting and scoring for ads. Free plan available.",
       "website": "https://anyword.com",
       "review_url": "https://autoventure.live/reviews/anyword.html"
+    },
+    {
+      "name": "Beamtrace",
+      "slug": "beamtrace",
+      "category": "Marketing for Small Business",
+      "category_id": "marketing-tools",
+      "pricing": "Free Trial",
+      "description": "Brand visibility monitoring tool that tracks how often AI search engines and chatbots mention your brand, with a 14-day free trial and no credit card required.",
+      "website": "https://beamtrace.com/",
+      "review_url": "https://autoventure.live/reviews/beamtrace.html"
     },
     {
       "name": "Brevo (Sendinblue)",
@@ -3617,6 +3677,16 @@
       "review_url": "https://autoventure.live/reviews/perplexity-ai.html"
     },
     {
+      "name": "Portable Picks",
+      "slug": "portable-picks",
+      "category": "Research",
+      "category_id": "research-tools",
+      "pricing": "Free",
+      "description": "AI-powered gadget finder that uses an LLM to evaluate and compare CPUs, screens, and other specs across handhelds, tablets, and phones, free to use.",
+      "website": "https://portablepicks.com/",
+      "review_url": "https://autoventure.live/reviews/portable-picks.html"
+    },
+    {
       "name": "Rayyan",
       "slug": "rayyan",
       "category": "Research",
@@ -4005,6 +4075,16 @@
       "description": "Professional-grade free video editor with AI-powered color correction, Fairlight audio, and Fusion VFX.",
       "website": "https://www.blackmagicdesign.com/products/davinciresolve",
       "review_url": "https://autoventure.live/reviews/davinci-resolve.html"
+    },
+    {
+      "name": "Flux 3",
+      "slug": "flux-3",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free",
+      "description": "Multimodal AI video generator that creates videos from text, images, or video references with native audio, offered on a freemium basis.",
+      "website": "https://flux-3.im/",
+      "review_url": "https://autoventure.live/reviews/flux-3.html"
     },
     {
       "name": "FreeLipSync",
