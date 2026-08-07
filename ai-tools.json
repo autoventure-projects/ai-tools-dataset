@@ -3,8 +3,8 @@
   "description": "A curated dataset of free and free-trial AI tools across 25 categories, with descriptions, pricing tier, website and review links.",
   "source": "https://autoventure.live",
   "license": "Free to use with attribution — link back to https://autoventure.live",
-  "updated": "2026-07-26",
-  "count": 440,
+  "updated": "2026-08-06",
+  "count": 449,
   "tools": [
     {
       "name": "Adobe Podcast",
@@ -35,6 +35,16 @@
       "description": "Free open-source audio editor with AI-powered noise reduction and effects. Works on all platforms.",
       "website": "https://www.audacityteam.org/",
       "review_url": "https://autoventure.live/reviews/audacity.html"
+    },
+    {
+      "name": "AudioAI.io",
+      "slug": "audioai-io",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "Online AI audio enhancer that removes background noise, echo, and distortion from podcasts, interviews, and voice recordings; new users get free credits to try it.",
+      "website": "https://audioai.io",
+      "review_url": "https://autoventure.live/reviews/audioai-io.html"
     },
     {
       "name": "Audo Studio",
@@ -235,6 +245,16 @@
       "description": "Free online text-to-speech with 200+ voices and languages. No signup required for basic use.",
       "website": "https://ttsmaker.com/",
       "review_url": "https://autoventure.live/reviews/ttsmaker.html"
+    },
+    {
+      "name": "Typecast.ai",
+      "slug": "typecast-ai",
+      "category": "Audio",
+      "category_id": "audio-tools",
+      "pricing": "Free",
+      "description": "AI voice generator and text-to-speech platform with 700+ expressive voices, emotion controls, and voice cloning; the free plan includes 3,000 lifetime download credits and unlimited playback.",
+      "website": "https://www.typecast.ai",
+      "review_url": "https://autoventure.live/reviews/typecast-ai.html"
     },
     {
       "name": "Udio",
@@ -1197,6 +1217,16 @@
       "review_url": "https://autoventure.live/reviews/v0-by-vercel.html"
     },
     {
+      "name": "you.bot",
+      "slug": "you-bot",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Unified AI API marketplace that aggregates 80+ models for image, video, audio, and text with up to 90% savings; new users get 50 free credits on signup with no card required.",
+      "website": "https://you.bot",
+      "review_url": "https://autoventure.live/reviews/you-bot.html"
+    },
+    {
       "name": "Chatwoot",
       "slug": "chatwoot",
       "category": "Customer Service",
@@ -1915,6 +1945,16 @@
       "description": "Free AI inventory management with demand forecasting and order routing.",
       "website": "https://www.zoho.com/inventory/",
       "review_url": "https://autoventure.live/reviews/zoho-inventory-ai.html"
+    },
+    {
+      "name": "Acade.ai",
+      "slug": "acade-ai",
+      "category": "Education",
+      "category_id": "education-tools",
+      "pricing": "Free Trial",
+      "description": "All-in-one AI research assistant for students and academics that connects to Google Scholar and PubMed for literature search, citation generation, and manuscript drafting; offers a free trial with no",
+      "website": "https://acade.ai",
+      "review_url": "https://autoventure.live/reviews/acade-ai.html"
     },
     {
       "name": "Canva for Education",
@@ -2837,6 +2877,16 @@
       "review_url": "https://autoventure.live/reviews/upscayl.html"
     },
     {
+      "name": "Vynzo.ai",
+      "slug": "vynzo-ai",
+      "category": "Image Generators",
+      "category_id": "image-tools",
+      "pricing": "Free",
+      "description": "AI creative studio for generating and editing images and videos in one workspace, offering text-to-image, face swap, image-to-video, and more; new accounts get free starter credits with no subscriptio",
+      "website": "https://vynzo.ai",
+      "review_url": "https://autoventure.live/reviews/vynzo-ai.html"
+    },
+    {
       "name": "CaseText",
       "slug": "casetext",
       "category": "Legal",
@@ -3267,6 +3317,16 @@
       "review_url": "https://autoventure.live/reviews/clickup.html"
     },
     {
+      "name": "Easy-Peasy.AI",
+      "slug": "easy-peasy-ai",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free",
+      "description": "All-in-one AI platform for content, images, video, audio, and agents that includes a free tier with 1,000 words, 1 image credit, and basic transcription per month; no credit card required to start.",
+      "website": "https://www.easy-peasy.ai",
+      "review_url": "https://autoventure.live/reviews/easy-peasy-ai.html"
+    },
+    {
       "name": "Karakeep",
       "slug": "karakeep",
       "category": "Productivity to Boost Workflow",
@@ -3365,6 +3425,16 @@
       "description": "Local knowledge base with community AI plugins; core app is free for personal use.",
       "website": "https://obsidian.md/",
       "review_url": "https://autoventure.live/reviews/obsidian-ai.html"
+    },
+    {
+      "name": "Panzoe.ai",
+      "slug": "panzoe-ai",
+      "category": "Productivity to Boost Workflow",
+      "category_id": "productivity-tools",
+      "pricing": "Free Trial",
+      "description": "Connected personal AI operating system that unifies email, calendar, tasks, and documents from Google Workspace, Microsoft 365, Notion, and GitHub into one daily assistant with specialized copilots; i",
+      "website": "https://panzoe.ai",
+      "review_url": "https://autoventure.live/reviews/panzoe-ai.html"
     },
     {
       "name": "Peony",
@@ -3937,6 +4007,16 @@
       "review_url": "https://autoventure.live/reviews/sprout-social-free-trial.html"
     },
     {
+      "name": "Thumblore.com",
+      "slug": "thumblore-com",
+      "category": "Social Media",
+      "category_id": "social-media-tools",
+      "pricing": "Free",
+      "description": "AI-powered YouTube and Shorts thumbnail generator that creates scroll-stopping designs from a title or topic; new users receive 10 free credits to start with no credit card.",
+      "website": "https://thumblore.com",
+      "review_url": "https://autoventure.live/reviews/thumblore-com.html"
+    },
+    {
       "name": "AI Image Translator",
       "slug": "ai-image-translator",
       "category": "Translation",
@@ -4145,6 +4225,16 @@
       "description": "Free AI video creation platform. Turn text prompts into publishable videos with stock footage.",
       "website": "https://invideo.io/",
       "review_url": "https://autoventure.live/reviews/invideo-ai.html"
+    },
+    {
+      "name": "Klaylab.com",
+      "slug": "klaylab-com",
+      "category": "Video",
+      "category_id": "video-tools",
+      "pricing": "Free Trial",
+      "description": "AI platform that turns any viral TikTok or Instagram video into a ready-to-film script or a finished UGC video filmed by a real human creator; offers a 3-day free trial with no card charged today.",
+      "website": "https://klaylab.com",
+      "review_url": "https://autoventure.live/reviews/klaylab-com.html"
     },
     {
       "name": "Kling AI",
