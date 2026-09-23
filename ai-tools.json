@@ -3,8 +3,8 @@
   "description": "A curated dataset of free and free-trial AI tools across 25 categories, with descriptions, pricing tier, website and review links.",
   "source": "https://autoventure.live",
   "license": "Free to use with attribution — link back to https://autoventure.live",
-  "updated": "2026-08-06",
-  "count": 449,
+  "updated": "2026-09-22",
+  "count": 450,
   "tools": [
     {
       "name": "Adobe Podcast",
@@ -1085,6 +1085,16 @@
       "description": "Open-source terminal coding agent built in Rust that automates development tasks in the command line, free to use and self-host.",
       "website": "https://jcode.sh/",
       "review_url": "https://autoventure.live/reviews/jcode.html"
+    },
+    {
+      "name": "Jev",
+      "slug": "jev",
+      "category": "Code",
+      "category_id": "code-tools",
+      "pricing": "Free",
+      "description": "Typed AI decisions for software: returns Route choices, Rank scores, or Gate yes/no probabilities that code can branch on.",
+      "website": "https://jevmodel.org/",
+      "review_url": "https://autoventure.live/reviews/jev.html"
     },
     {
       "name": "Langfuse",
